@@ -1,9 +1,9 @@
 ---
-title: "Choi Lab - Vacancies"
+title: "Choi Lab - Parents"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Parents"
 sitemap: false
-permalink: /vacancies
+permalink: /parents
 ---
 
-# Open positions
+# Research Opportunities
