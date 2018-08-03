@@ -49,7 +49,7 @@ We are a research group at the [Virginia Tech](https://vt.edu/).
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_VT.png" style="width: 210px">
 </figure>
 
 
