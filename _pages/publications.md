@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=UY9qarUAAAAJ&hl=en)
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=UY9qarUAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
