@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students and Master students to join the team** **!**
+ **We are  looking for new graduate and undergraduate students to join the team** **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni)
+Jump to [pi](#pi), [graduate and undergraduate students](#grad-and-undergrad-students), [alumni](#alumni)
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Doctoral, Master, and Bachelor Students 
+## Graduate and Undergraduate Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -135,8 +135,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Alumni
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
-    <th>Master Students</th> 
-    <th>Bachelor Students</th>
+    <th>Graduate Students</th> 
+    <th>Undergraduate Students</th>
  <tr>
     <td>.</td>
     <td>.</td>
