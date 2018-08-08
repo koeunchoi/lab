@@ -7,4 +7,4 @@ permalink: /pictures/
 
 # Pictures
 
-COMING SOON
+Coming Soon!
