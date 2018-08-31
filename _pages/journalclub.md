@@ -1,7 +1,7 @@
 ---
-title: "Choi Lab - journalclub"
+title: "Choi Lab - Journal Club"
 layout: textlay
-excerpt: "journalclub"
+excerpt: "Journal Club"
 sitemap: false
 permalink: /journalclub.html
 ---
