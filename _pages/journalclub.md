@@ -10,4 +10,4 @@ permalink: /journalclub.html
 
 Every Tuesday at 1:00pm in 305 Wallace.
 
-[2018 Fall](https://koeunchoi.github.io/lab/_pages/journalclub/journalclub_201809.html) 
+[2018 Fall](/journalclub/journalclub_201809.html) 
