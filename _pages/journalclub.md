@@ -10,4 +10,4 @@ permalink: /journalclub.html
 
 Every Tuesday at 1:00pm in 305 Wallace.
 
-[2018 Fall](/journalclub/journalclub_201809.html) 
+[2018 Fall](/journalclub_201809.html) 
