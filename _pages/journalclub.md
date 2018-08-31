@@ -1,9 +1,9 @@
 ---
-title: "Choi Lab - AOA"
+title: "Choi Lab - journalclub"
 layout: textlay
-excerpt: "AOA"
+excerpt: "journalclub"
 sitemap: false
-permalink: /aoa.html
+permalink: /journalclub.html
 ---
 
 # Calendar
