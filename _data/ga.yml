@@ -1,11 +1,8 @@
-- name: Koeun Choi
-  photo: Choi.png
-  info: Assistant Professor
-  email: koeun@vt.edu
+- name: Eunkyung Lucy Shin
+  photo: Shin.jpg
+  info: Graduate Research Assistant
+  email: shinek@vt.edu
   www: https://koeunchoi.github.io/
-  number_educ: 5
-  education1: Postdoc Rutgers University-Newark
-  education2: Postdoc University of Califorina, Riverside
-  education3: Ph.D. University of Wisconsin-Madison
-  education4: M.A. Seoul National University
-  education5: B.A. Seoul National University
+  number_educ: 2
+  education1: Ph.D. Candidate (Advisor: Dr. Cindy Smith)
+  education2: M.A. Yonsei University
