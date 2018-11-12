@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-We are always looking for new team members with curiosity, grit, and empathy! 
+We are always looking for new team members! 
 
 Undergraduate Research Assistants
 
