@@ -3,7 +3,7 @@ title: "Choi Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /openings
+permalink: /openings/
 ---
 
 # Open positions
