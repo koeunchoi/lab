@@ -10,8 +10,6 @@ permalink: /vacancies
 
 We are always looking for new team members! 
 
-Undergraduate Research Assistants
-
 ## Current open positions
 
 ### Application for Master / Ph.D positions
