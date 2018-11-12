@@ -8,9 +8,11 @@ permalink: /openings/
 
 # Open positions
 
-We are always looking for new team members! 
+We are always looking for new team members with curiosity, grit, and empathy!
+
 
 ## Current open positions
+
 
 ### Application for Master / Ph.D positions
 
@@ -21,3 +23,6 @@ If you are interested in working with us as a Master / Ph.D. student, please sen
 
 If you are an undergraduate student interested in our research and looking for research experience, please fill out our [application](https://goo.gl/forms/zkxeYU0viXr62Bui1). We will review your application and follow up with you regarding interview process.  
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CoDeS_App.png" width="95%">
+</figure>
