@@ -79,7 +79,7 @@ Jump to [principal investigator](#principal-investigator), [graduate research as
 ## Graduate Research Assistants
 
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.ga %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -142,7 +142,7 @@ Jump to [principal investigator](#principal-investigator), [graduate research as
 
 ## Graduate and Undergraduate Students 
 {% assign number_printed = 0 %}
-{% for member in site.data.ga %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
