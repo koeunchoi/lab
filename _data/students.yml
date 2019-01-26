@@ -1,9 +1,29 @@
-#- name: Bethany Grocock
-#  photo: 
-#  info:
-#  email: bkg99@vt.edu
-#  number_educ: 
-#  education1:  
-#  education2:  
-#  education3: 
-#  education4:  
+- name: Bethany Grocock
+  photo: 
+  info:
+  email: bkg99@vt.edu
+  number_educ: 
+  education1:  
+  education2:  
+  education3: 
+  education4:  
+  
+- name: Katie Johnson
+  photo: 
+  info:
+  email: kr99@vt.edu
+  number_educ: 
+  education1:  
+  education2:  
+  education3: 
+  education4:  
+  
+- name: Ashleigh Bedwell
+  photo: 
+  info:
+  email: bedwell1@vt.edu
+  number_educ: 
+  education1:  
+  education2:  
+  education3: 
+  education4:  
