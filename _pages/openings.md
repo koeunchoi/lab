@@ -22,7 +22,7 @@ If you are interested in working with us as a Master / Ph.D. student, please sen
 
 ### Application for Undergraduate Research Assistants
 
-If you are an undergraduate student interested in our research and looking for research experience, please fill out our [UNDERGRADUATE RESEARCH ASSISTANT APPLICATION](https://goo.gl/forms/zkxeYU0viXr62Bui1) (Click). We have completed recruiting participants for Spring 2019, but we are still looking for students who are interested in joining the lab in the following semesters. We will review your application and follow up with you regarding interview process.  
+If you are an undergraduate student interested in our research and looking for research experience, please fill out our [UNDERGRADUATE RESEARCH ASSISTANT APPLICATION](https://goo.gl/forms/zkxeYU0viXr62Bui1) (Click). We have completed recruiting research assistants for Spring 2019, but we are still looking for students who are interested in joining the lab in the following semesters. We will review your application and follow up with you regarding interview process.  
 
 
 <figure>
