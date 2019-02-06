@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team Members
 
  **We are  looking for new graduate and undergraduate students to join the team** **!**
 
