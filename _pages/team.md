@@ -76,7 +76,7 @@ Jump to [principal investigator](#principal-investigator), [graduate research as
 {% endif %}
 
 
-## Graduate Research Assistants
+## Lab Affiliates
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ga %}
