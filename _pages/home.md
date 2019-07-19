@@ -45,8 +45,8 @@ Our current research focuses on children’s exploration and informating seeking
 We are grateful for funding from the [Institute for Creativity, Arts, and Technology (ICAT)](https://icat.vt.edu/) and the [College of Liberal Arts and Human Sciences](https://liberalarts.vt.edu/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_VT.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_VT.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICAT.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 100px">
 </figure>
 
