@@ -8,10 +8,18 @@ permalink: /research/
 
 # Research
 
-Our research goal is to connect cognitive development and media technology to explain and support children’s learning. 
+Mobile learning across the lifespan: Processing and learning information from mobile media technology in children, young adults, and older adults
 
-We have focused on four aspects including (1) examining the impact of media on learning, (2) characterizing individual and contextual differences that moderate or mediate media effects, (3) identifying cognitive mechanisms underlying media-based learning, and (4) connecting computational modeling, data analytics, and digital technology to describe and predict this learning. 
+Members:
+Koeun Choi, Human Development and Family Science
+Benjamin D. Katz, Human Development and Family Science 
+Adrienne Holz Ivory, Department of Communication
+Gota Morota, Animal and Poultry Sciences
 
-To tackle these questions, we employ multiple methods such as experiments, individual difference measures, eye-tracking, and computational and machine learning approaches. 
+Areas:
+Eye Tracking
+Cognitive Tasks
+Communication
+Image Analysis
 
-Our current research focuses on children’s curiosity and exploration in the context of interactive media technology.
+With rapid technological innovation, the consumption of mobile digital media has become ubiquitous in the lives of people of all ages. As the favored platforms for digital content have rapidly switched to become portable, the impact of mobile media on learning and development has generated widespread public interest. This multidisciplinary research project aims to identify how users of different ages (preschoolers, college students, and older adults) process and comprehend information delivered on mobile devices. Using a head-mounted eye-tracking system, we assess learners’ visual attention during complex and dynamic mobile media viewing while viewers are in motion. Further, we examine individual difference factors such as baseline cognitive ability and media use in association with the processing and comprehension of mobile media content. Lastly, we use image analysis techniques to automate the processing of eye-tracking data and develop an open-access interactive graphical user interface to dynamically view and interpret a large number of eye and scene data files. This project focuses on examining how learners of different ages and characteristics process and comprehend information from mobile media technology, supporting opportunities for people of all ages to engage in learning. #icatmobilelearning
