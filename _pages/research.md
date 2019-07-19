@@ -10,17 +10,9 @@ permalink: /research/
 
 Mobile learning across the lifespan: Processing and learning information from mobile media technology in children, young adults, and older adults
 
-Members:
-Koeun Choi, Human Development and Family Science
-Benjamin D. Katz, Human Development and Family Science 
-Adrienne Holz Ivory, Department of Communication
-Gota Morota, Animal and Poultry Sciences
+Koeun Choi, Human Development and Family Science; Benjamin D. Katz, Human Development and Family Science; Adrienne Holz Ivory, Department of Communication; Gota Morota, Animal and Poultry Sciences
 
-Areas:
-Eye Tracking
-Cognitive Tasks
-Communication
-Image Analysis
+Areas: Eye Tracking; Cognitive Tasks; Communication; Image Analysis
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning1.png){: style="width: 300px; float: right; border: 10px"}
 
