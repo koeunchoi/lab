@@ -13,6 +13,7 @@ Mobile learning across the lifespan: Processing and learning information from mo
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning1.png){: style="width: 300px; float: right; border: 10px"}
 
 PI: Koeun Choi, Human Development and Family Science
+
 Co-PIs: Benjamin D. Katz, Human Development and Family Science; Adrienne Holz Ivory, Department of Communication; Gota Morota, Animal and Poultry Sciences
 
 Areas: Eye Tracking; Cognitive Tasks; Communication; Image Analysis
