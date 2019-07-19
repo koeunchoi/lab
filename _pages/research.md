@@ -19,3 +19,10 @@ permalink: /research/
 With rapid technological innovation, the consumption of mobile digital media has become ubiquitous in the lives of people of all ages. As the favored platforms for digital content have rapidly switched to become portable, the impact of mobile media on learning and development has generated widespread public interest. This multidisciplinary research project aims to identify how users of different ages (preschoolers, college students, and older adults) process and comprehend information delivered on mobile devices. Using a head-mounted eye-tracking system, we assess learners’ visual attention during complex and dynamic mobile media viewing while viewers are in motion. Further, we examine individual difference factors such as baseline cognitive ability and media use in association with the processing and comprehension of mobile media content. Lastly, we use image analysis techniques to automate the processing of eye-tracking data and develop an open-access interactive graphical user interface to dynamically view and interpret a large number of eye and scene data files. This project focuses on examining how learners of different ages and characteristics process and comprehend information from mobile media technology, supporting opportunities for people of all ages to engage in learning. #icatmobilelearning
 
 
+**Children’s and Adults’ Selective Learning from Human, Print, and Digital Information Sources**
+
+[Koeun Choi](http://kchoi.org/) (Human Development and Family Science)
+
+Technology has broadened the way we access information. We obtain information from a wide range of sources including human, print (book), and digital media (smartphone, tablet, laptop). The goal of the proposed project is to determine whether children and adults selectively learn from different information sources when these sources provide conflicting information. 
+
+
