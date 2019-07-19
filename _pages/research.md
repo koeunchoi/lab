@@ -21,6 +21,8 @@ With rapid technological innovation, the consumption of mobile digital media has
 
 **Children’s and Adults’ Selective Learning from Human, Print, and Digital Information Sources**
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning1.png){: style="width: 300px; float: right; border: 10px"}
+
 [Koeun Choi](http://kchoi.org/)
 
 Technology has broadened the way we access information. We obtain information from a wide range of sources including human, print (book), and digital media (smartphone, tablet, laptop). The goal of the proposed project is to determine whether children and adults selectively learn from different information sources when these sources provide conflicting information.
