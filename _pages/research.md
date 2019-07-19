@@ -17,7 +17,7 @@ With rapid technological innovation, the consumption of mobile digital media has
 [Koeun Choi](http://kchoi.org/) (PI: Human Development and Family Science); [Benjamin D. Katz](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/faculty/ben-katz.html) (Human Development and Family Science); [Adrienne Holz Ivory](https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/adrienne-ivory.html) (Department of Communication); [Gota Morota](http://morotalab.org/) (Animal and Poultry Sciences)
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LearningTech1.png){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LearningTech1.png){: style="width: 200px; float: left; border: 10px"}
 
 **Children’s and Adults’ Selective Learning from Human, Print, and Digital Information Sources**
 
