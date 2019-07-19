@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Mobile learning across the lifespan: Processing and learning information from mobile media technology in children, young adults, and older adults
+**Mobile learning across the lifespan: Processing and learning information from mobile media technology in children, young adults, and older adults**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning1.png){: style="width: 300px; float: right; border: 10px"}
 
