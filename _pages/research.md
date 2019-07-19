@@ -21,7 +21,7 @@ With rapid technological innovation, the consumption of mobile digital media has
 
 **Children’s and Adults’ Selective Learning from Human, Print, and Digital Information Sources**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning1.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LearningTech1.png){: style="width: 300px; float: right; border: 10px"}
 
 [Koeun Choi](http://kchoi.org/)
 
