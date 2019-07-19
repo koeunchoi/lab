@@ -23,6 +23,6 @@ With rapid technological innovation, the consumption of mobile digital media has
 
 [Koeun Choi](http://kchoi.org/)
 
-Technology has broadened the way we access information. We obtain information from a wide range of sources including human, print (book), and digital media (smartphone, tablet, laptop). The goal of the proposed project is to determine whether children and adults selectively learn from different information sources when these sources provide conflicting information. 
+Technology has broadened the way we access information. We obtain information from a wide range of sources including human, print (book), and digital media (smartphone, tablet, laptop). The goal of the proposed project is to determine whether children and adults selectively learn from different information sources when these sources provide conflicting information.
 
 
