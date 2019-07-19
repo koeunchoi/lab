@@ -13,7 +13,6 @@ permalink: /parents/
 Thank you for your interest in our research projects! We are currently running 2 studies. More information about sign up will follow soon!
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning2.png){: style="width: 45%}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_MobileLearning3.png){: style="width: 45%}
 
 **Questions?** Contact Professor Koeun Choi at <koeun@vt.edu>, Office: (540) 231-5720, or Lab: (540)-231-2015
 
