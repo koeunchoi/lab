@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Virginia Tech](https://vt.edu/). My goal is to connect cognitive development and digital media technology to explain and support children’s learning.   
+We are a research group at the [Virginia Tech](https://vt.edu/). Our goal is to connect cognitive development and digital media technology to explain and support children’s learning.   
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
