@@ -42,7 +42,7 @@ Our current research focuses on children’s curiosity, exploration, and informa
 </div>
 
 
-We are grateful for funding from the [Institute for Creativity, Arts, and Technology (ICAT)](https://icat.vt.edu/) and the [College of Liberal Arts and Human Sciences (CLAHS)](https://liberalarts.vt.edu/).
+We are grateful for funding from the [Institute for Creativity, Arts, and Technology (ICAT)](https://icat.vt.edu/), the [College of Liberal Arts and Human Sciences (CLAHS)](https://liberalarts.vt.edu/), and the [Institute for Society, Culture and Environment (ISCE)](https://www.isce.vt.edu/).
 
 <figure class="fourth">
   <!--img src="//www.assets.cms.vt.edu/images/Standard/Standard_RGB.svg" style="width: 130px"-->
