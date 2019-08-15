@@ -1,6 +1,6 @@
 - title: "Drawing across media: A cross-sectional experiment on preschoolers’ drawings produced using traditional versus electronic mediums. Developmental Psychology"
   image: 
-  description: This paper is about preschoolers'
+#  description: 
   authors: Kirkorian, H. L., Travers, B., Jiang, M., Choi, K., Rosengren K. S., Pavalko P., & Tolkin, E.
   link: 
     url: 
@@ -16,7 +16,7 @@
     display: Proceedings of the 41th Annual Conference of the Cognitive Science Society. Montreal, Canada: Cognitive Science Society
   highlight: 0
   
-- title: "American parents’ active involvement mediates the impact of background television on toddlers’ play"
+- title: "American parents’ active involvement mediates the impact of background television on toddlers' play"
   image: 
 #  description: This paper is about how parent’s active play involvement mediates the relation between background television and child play.
   authors: Kirkorian, H. L., Choi, K., & Anderson, D. R.
@@ -27,14 +27,14 @@
 
 - title: "Understanding the transfer deficit: Contextual mismatch, proactive interference, and working memory affect toddlers’ video-based transfer"
   image: Child_WM.png
-  description: This paper is about underlying mechanisms of toddlers’ transfer of learning from video.
+  description: This paper is about underlying mechanisms of toddlers' transfer of learning from video.
   authors: Choi, K., Kirkorian, H. L., & Pempek, T. A.
   link: 
     url: https://doi.org/10.1111/cdev.12810
     display: Child Development, 89, 1378-1393 (2018)
   highlight: 1
 
-- title: "Knowing how to fold ’em: Paper folding across early childhood"
+- title: "Knowing how to fold 'em: Paper folding across early childhood"
   image:
 #  description: This paper is about age-related changes in manual paper-folding across early childhood.
   authors: Travers, B. G., Kirkorian, H. L., Jiang, M. J., Choi, K., Rosengren, K. S., Pavalko, P., & Jobin, P.
@@ -52,7 +52,7 @@
     display: Proceedings of the 40th Annual Conference of the Cognitive Science Society (2018)
   highlight: 0
 
-- title: "Associations between toddlers’ naturalistic media exposure and observed learning from screens"
+- title: "Associations between toddlers' naturalistic media exposure and observed learning from screens"
   image: 
 #  description: This paper is about toddlers’ explosure to touchscreens at home and learning task performance in the lab.
   authors: Kirkorian, H. L., & Choi, K.
@@ -61,7 +61,7 @@
     display: Infancy, 22, 271-277 (2017)
   highlight: 0
 
-- title: "The role of online processing in young children’s ability to learn from interactive and non-interactive media"
+- title: "The role of online processing in young children's ability to learn from interactive and non-interactive media"
   image: 
  # description: This chapter is about young children’ online processing of digital media.
   authors: Kirkorian, H. L., Pempek, T. A., & Choi, K.
