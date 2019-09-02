@@ -3,21 +3,21 @@
   info: Undergraduate Research Assistant
   email: bkg99@vt.edu
   number_educ: 1
-  education1: Sophomore @ Virginia Tech (Major - Human Development/Spanish)
+  education1: Junior @ Virginia Tech (Major - Human Development/Spanish)
   
 - name: Katie Johnson
   photo: Johnson.png
   info: Undergraduate Research Assistant
   email: krj99@vt.edu
   number_educ: 1
-  education1: Sophomore @ Virginia Tech (Major - Human development/Psychology; Minor - Disabilities Studies, Geography) 
+  education1: Junior @ Virginia Tech (Major - Human development/Psychology; Minor - Disabilities Studies, Geography) 
   
 - name: Ashleigh Bedwell
   photo: Bedwell.png
   info: Undergraduate Research Assistant
   email: bedwell1@vt.edu
   number_educ: 1
-  education1: Junior (Major - Psychology/Human Development) @ Virginia Tech
+  education1: Senior (Major - Psychology/Human Development) @ Virginia Tech
 
 - name: Sara Belay
   photo: Belay.png
@@ -25,3 +25,24 @@
   email: sbelay98@vt.edu
   number_educ: 1
   education1: Senior (Major - Clinical Neuroscience; Minor - Medicine and Society) @ Virginia Tech
+
+- name: Taylor Covington
+  photo: Covington.png
+  info: Undergraduate Research Assistant
+  email: taylc99@vt.edu
+  number_educ: 1
+  education1: Sophomore (Major - Human Development) @ Virginia Tech
+
+- name: Eman Ayaz
+  photo: Ayaz.png
+  info: Undergraduate Research Assistant
+  email: emanayaz@vt.edu
+  number_educ: 1
+  education1: Sophomore (Major - Human Development) @ Virginia Tech
+
+- name: Ava Bir
+  photo: Bir.png
+  info: Undergraduate Research Assistant
+  email: avabir@vt.edu
+  number_educ: 1
+  education1: Sophomore (Major - Cognitive and Behavioral Neuroscience/Psychology) @ Virginia Tech
