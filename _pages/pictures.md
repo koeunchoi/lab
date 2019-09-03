@@ -48,5 +48,5 @@ permalink: /pictures/
 2019 Dennis Dean Undergraduate Research and Creative Scholarship Conference 
 (Ashleigh Bedwell, Katie Johnson, Bethany Grocock)
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2019_0419.png" width="30%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2019_0419.png" width="40%">
 </figure>
