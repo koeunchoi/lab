@@ -54,14 +54,14 @@
   number_educ: 1
   education1: Sophomore (Major - Clinical Neuroscience; Minor - Psychology/Sociology)
   
-  - name: Ally Copeland
+- name: Ally Copeland
   photo: Copeland.png
   info: Undergraduate Research Assistant
   email: ally22@vt.edu
   number_educ: 1
   education1: Sophomore (Major - Human Development)
   
-  - name: Rhea Bhatia
+- name: Rhea Bhatia
   photo: Bhatia.png
   info: Undergraduate Research Assistant
   email: rheab@vt.edu
