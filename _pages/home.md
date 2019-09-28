@@ -12,7 +12,7 @@ We have focused on four aspects including (1) examining the impact of media on l
 
 To tackle these questions, we employ multiple methods such as experiments, individual difference measures, eye-tracking, and computational and machine learning approaches.
 
-Our current research focuses on children’s curiosity, exploration, and informating seeking in digital contexts (see [Research](http://kchoi.org/research/)).
+Our current research focuses on children’s curiosity, exploration, and information seeking in the context of digital technology (see [Research](http://kchoi.org/research/)).
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
