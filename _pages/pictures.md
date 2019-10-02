@@ -42,6 +42,12 @@ permalink: /pictures/
 <p> &nbsp; </p>
 
 # 2019
+2019 Experimental Stimuli Creation
+(Sara Belay, Katie Johnson, Bethany Grocock, Jessica Resor)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/HR_2019_0913.png" width="40%">
+</figure>
+
 2019 Dennis Dean Undergraduate Research and Creative Scholarship Conference 
 (Ashleigh Bedwell, Katie Johnson, Bethany Grocock)
 <figure>
