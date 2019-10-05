@@ -16,7 +16,7 @@ With rapid technological innovation, the consumption of mobile digital media has
 
 Collaborators: [Benjamin D. Katz](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/faculty/ben-katz.html) (Human Development and Family Science); [Adrienne Holz Ivory](https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/adrienne-ivory.html) (Communication); [Gota Morota](http://morotalab.org/) (Animal and Poultry Sciences)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 250px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 200px; float: left; border: 10px"}
 
 **Children's Learning with Robots** 
 
@@ -24,13 +24,13 @@ Like quality interactions with human partners, learners benefit from meaningful 
 
 Collaborators: [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering); [Tae-Ho Lee](https://www.andlab.psyc.vt.edu/) (Affective Neurodynamics and Development (AND) Lab; Psychology)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LT1.png){: style="width: 250px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LT1.png){: style="width: 150px; float: right; border: 10px"}
 
 **Children’s and Adults’ Selective Learning from Human, Print, and Digital Information Sources**
 
 Technology has broadened the way we access information. We obtain information from a wide range of sources including human, print (book), and digital media (smartphone, tablet, laptop). This changing media landscape presents challenges to learners as they need to juggle information from various information sources. This problem is further complicated by the fact that often these sources provide conflicting information. When facing multiple sources providing different information, which source will learners choose to ask for information and learn from? The goal of the project is to provide a systematic understanding of how learners perceive different information sources and use that understanding to guide their future learning.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 250px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: left; border: 10px"}
 
 **Child Temperament and Early Screen Time** 
 
