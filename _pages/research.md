@@ -17,7 +17,7 @@ With rapid technological innovation, the consumption of mobile digital media has
 Collaborators: [Benjamin D. Katz](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/faculty/ben-katz.html) (Human Development and Family Science); [Adrienne Holz Ivory](https://liberalarts.vt.edu/departments-and-schools/department-of-communication/faculty/adrienne-ivory.html) (Communication); [Gota Morota](http://morotalab.org/) (Animal and Poultry Sciences)
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LT1.png){: style="width: 120px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_LT1.png){: style="width: 120px; float: left; border: 10px"}
 
 **Children’s and Adults’ Selective Learning from Human, Print, and Digital Information Sources**
 
@@ -29,7 +29,7 @@ Technology has broadened the way we access information. We obtain information fr
 
 Collaborators: [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering); [Tae-Ho Lee](https://www.andlab.psyc.vt.edu/) (Affective Neurodynamics and Development (AND) Lab; Psychology)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: left; border: 10px"}
 
 **Child Temperament and Early Screen Time** The American Academy of Pediatrics (AAP) has recommended no TV or entertainment screen media for children under two years of age (AAP, 2016). Despite these concerns, infants and toddlers spend a considerable amount of their waking hours looking at screens. To address the discrepancy between the guideline and real-world practice, it is crucial to understand why parents allow their young children to use screen media. Guided by an ecological system’s perspective, the study aims to examine the role of parent stress in the link between child characteristics and screen time in infants and toddlers.
 
