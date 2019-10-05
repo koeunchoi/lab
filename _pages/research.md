@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 250px; float: right; border: 10px"}
 
 **Mobile learning across the lifespan: Processing and learning information from mobile media technology in children, young adults, and older adults**
 
@@ -29,10 +29,8 @@ Technology has broadened the way we access information. We obtain information fr
 
 Collaborators: [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering); [Tae-Ho Lee](https://www.andlab.psyc.vt.edu/) (Affective Neurodynamics and Development (AND) Lab; Psychology)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 250px; float: right; border: 10px"}
 
 **Child Temperament and Early Screen Time** The American Academy of Pediatrics (AAP) has recommended no TV or entertainment screen media for children under two years of age (AAP, 2016). Despite these concerns, infants and toddlers spend a considerable amount of their waking hours looking at screens. To address the discrepancy between the guideline and real-world practice, it is crucial to understand why parents allow their young children to use screen media. Guided by an ecological system’s perspective, the study aims to examine the role of parent stress in the link between child characteristics and screen time in infants and toddlers.
 
 Collaborators: [Cynthia Smith](https://www.techkids.clahs.vt.edu/) (Children's Emotions Lab; Human Development and Family Science); [Lucy Eunkyung Shin](https://blogs.lt.vt.edu/hdgradstudents/meet-our-graduate-students/2015-cohort/) (Graduate Student; Human Development and Family Science)
-
-
