@@ -1,5 +1,5 @@
 ---
-title: "Choi Lab - Home"
+title: "CoDeS Lab - Home"
 layout: homelay
 excerpt: "CoDeS Lab at Virgitina Tech."
 sitemap: false
