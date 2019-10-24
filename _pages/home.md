@@ -1,7 +1,7 @@
 ---
 title: "Choi Lab - Home"
 layout: homelay
-excerpt: "Choi Lab at Virgitina Tech."
+excerpt: "CoDeS Lab at Virgitina Tech."
 sitemap: false
 permalink: /
 ---
