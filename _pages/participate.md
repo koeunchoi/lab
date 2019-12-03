@@ -8,9 +8,18 @@ permalink: /participate/
 
 # Research Opportunities
 
-### Information for Parents
+Thank you for your interest in our research projects! We are currently running one study. Please find more details about each study below.
 
-Thank you for your interest in our research projects! We are currently running 2 studies. More information about sign up will follow soon!
+If you are interested in participating in any of our studies, you can signup for by clicking on 'Signup Link' next to each study description. 
+
+You can also indicate in our contact form if they want to be notified when a new study is available. Completing the contact form does not obligate you to participate; you can choose to participate (or not) after we tell you about each new study. You can sign up for our contact list by clicking here or e-mailing us at koeun@vt.edu.
+
+## Adults’ Mobile Learning Research Opportunity
+
+**Age**: 18-25 or 55-58 years
+**Study Description**: We are looking for adults between 18 to 25 years or 55 to 80 years of age to participate in a study about adults’ learning from mobile media. Our projects depend on your help and involvement, and we will be grateful if you are able to participate. Study participation involves a one-time visit to the Cognitive Science Lab (CoDeS) Lab at Wallace Hall on Virginia Tech campus. The entire visit lasts no more than one hour. Sessions can be scheduled at your convenience, and evening and weekend appointments are available. Participants will be compensated for their time and effort completing the session with US $20. We also provide free parking during your visit.
+**Consent Form**: Check the consent form here
+**Signup Link**: Sign up for a time slot here
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML3.png" width="95%">
