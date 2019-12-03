@@ -18,7 +18,7 @@ Thank you for your interest in our research projects! We are currently running o
 
 **Consent Form**: Check the consent form here. This study has received Biomedical Research Alliance of New York IRB approval (IRB #) and is part of the research projects under the direction of Drs. Koeun Choi, Benjamin D. Katz, Adrienne Ivory, and Gota Morota at Virginia Tech.
 
-**Sign-up Link**: Sign up for a time slot here.
+**Sign-up Link**: Sign up for a time slot here: https://calendly.com/codeslab/adults-mobile-learning-research
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML3.png" width="95%">
