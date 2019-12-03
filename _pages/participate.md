@@ -12,7 +12,7 @@ Thank you for your interest in our research projects! We are currently running o
 
 ### Adults’ Mobile Learning Research Opportunity
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 100px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 250px; float: right; border: 10px"}
 
 **Age**: 18-25 or 55-58 years
 
