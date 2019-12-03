@@ -10,10 +10,6 @@ permalink: /participate/
 
 Thank you for your interest in our research projects! We are currently running one study. Please find more details about each study below.
 
-If you are interested in participating in any of our studies, you can signup for by clicking on 'Signup Link' next to each study description. 
-
-You can also indicate in our contact form if they want to be notified when a new study is available. Completing the contact form does not obligate you to participate; you can choose to participate (or not) after we tell you about each new study. You can sign up for our contact list by clicking here or e-mailing us at <koeun@vt.edu>.
-
 ## Adults’ Mobile Learning Research Opportunity
 
 **Age**: 18-25 or 55-58 years
