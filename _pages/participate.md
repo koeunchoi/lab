@@ -10,7 +10,7 @@ permalink: /participate/
 
 Thank you for your interest in our research projects! We are currently running one study. Please find more details about each study below.
 
-## Adults’ Mobile Learning Research Opportunity
+### Adults’ Mobile Learning Research Opportunity
 
 **Age**: 18-25 or 55-58 years
 
