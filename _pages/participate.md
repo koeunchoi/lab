@@ -21,7 +21,7 @@ Thank you for your interest in our research projects! We are currently running o
 **Sign-up Link**: Sign up for a time slot [here](https://calendly.com/codeslab/adults-mobile-learning-research)
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML3.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png" width="95%">
 </figure>
 
 **Questions?** Contact Professor Koeun Choi at <koeun@vt.edu>, Office: (540) 231-5720, or Lab: (540)-231-2015
