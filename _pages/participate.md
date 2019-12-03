@@ -1,9 +1,9 @@
 ---
-title: "Choi Lab - Parents"
+title: "Choi Lab - Participate"
 layout: textlay
-excerpt: "Parents"
+excerpt: "Participate"
 sitemap: false
-permalink: /parents/
+permalink: /participate/
 ---
 
 # Research Opportunities
