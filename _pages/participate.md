@@ -18,7 +18,7 @@ Thank you for your interest in our research projects! We are currently running o
 
 **Consent Form**: Check the consent form here
 
-**Signup Link**: Sign up for a time slot here
+**Sign-up Link**: Sign up for a time slot here
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML3.png" width="95%">
