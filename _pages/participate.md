@@ -12,6 +12,8 @@ Thank you for your interest in our research projects! We are currently running o
 
 ### Adults’ Mobile Learning Research Opportunity
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 100px; float: right; border: 10px"}
+
 **Age**: 18-25 or 55-58 years
 
 **Study Description**: We are looking for adults between 18 to 25 years or 55 to 80 years of age to participate in a study about adults’ learning from mobile media. Our projects depend on your help and involvement, and we will be grateful if you are able to participate. Study participation involves a one-time visit to the Cognitive Science Lab (CoDeS) Lab at Wallace Hall on Virginia Tech campus. The entire visit lasts no more than one hour. Sessions can be scheduled at your convenience, and evening and weekend appointments are available. Participants will be compensated for their time and effort completing the session with US $20. We also provide free parking during your visit. 
@@ -20,9 +22,9 @@ Thank you for your interest in our research projects! We are currently running o
 
 **Sign-up Link**: Sign up for a time slot [here](https://calendly.com/codeslab/adults-mobile-learning-research)
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png" width="5%">
-</figure>
+<!--<li><figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png" width="15%">
+</figure></li>-->
 
 **Questions?** Contact Professor Koeun Choi at <koeun@vt.edu>, Office: (540) 231-5720, or Lab: (540)-231-2015
 
