@@ -10,7 +10,7 @@ permalink: /participate/
 
 Thank you for your interest in our research projects! We are currently running one study. Please find more details about each study below. If you want to participating in any of our studies, you can sign up using the sign-up link for each study below.
 
-You can also complete our contact form if they want to be notified when a new study is available. Completing the contact form does not obligate you to participate; you can choose to participate (or not) after we tell you about each new study. You can sign up for our contact list by clicking [here](https://virginiatech.qualtrics.com/jfe/form/SV_1Ficl8nRKwfjRDT)
+**Contact Form**: You can also complete our contact form if they want to be notified when a new study is available. Completing the contact form does not obligate you to participate; you can choose to participate (or not) after we tell you about each new study. You can sign up for our contact list by clicking [here](https://virginiatech.qualtrics.com/jfe/form/SV_1Ficl8nRKwfjRDT)
 
 <!--<li>..</li>-->
 
