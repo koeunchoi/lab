@@ -10,7 +10,7 @@ permalink: /participate/aml/
 
 ******************************************************************************************************************************
 
-Thank you for your interest in our research projects! Please find more details about each study below. Interested in participating in any of our ongoing studies, you can sign up using the sign-up link for each study below.
+Thank you for your interest in our research projects! Please find more details about each study below. Interested in participating, you can sign up using the sign-up link for each study below.
 
 ******************************************************************************************************************************
 
