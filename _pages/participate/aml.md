@@ -3,20 +3,14 @@ title: "Choi Lab - Participate"
 layout: textlay
 excerpt: "Participate"
 sitemap: false
-permalink: /participate/
+permalink: /participate/aml/
 ---
 
 # Research Opportunities
 
 ******************************************************************************************************************************
 
-Thank you for your interest in our research projects! We are currently running one study. Please find more details about each study below. 
-
-**Current Studies**: Interested in participating in any of our ongoing studies, you can sign up using the sign-up link for each study below.
-
-**Future Studies**: You can also complete our contact form if they want to be notified when a new study is available. Completing the contact form does not obligate you to participate; you can choose to participate (or not) after we tell you about each new study. You can sign up for our contact list by clicking [here](https://virginiatech.qualtrics.com/jfe/form/SV_1Ficl8nRKwfjRDT).
-
-*This recruitment database has received Virginia Tech IRB approval (19-1151).*
+Thank you for your interest in our research projects! Please find more details about each study below. Interested in participating in any of our ongoing studies, you can sign up using the sign-up link for each study below.
 
 ******************************************************************************************************************************
 
