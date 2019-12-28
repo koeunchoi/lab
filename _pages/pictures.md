@@ -42,6 +42,12 @@ permalink: /pictures/
 <p> &nbsp; </p>
 
 # 2019
+2019 VT Science Festival
+(Eman Ayaz, Sara Belay, Rhea Bhatia, Ava Bir, Ally Copeland, Taylor Covington, Breanne De Vera, Eva Grumbine, Bethany Grocock, Katie Johnson, Anvitha Metpally, Michelle Tran, Jessica Resor, Lucy Shin)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/VTSciFest_2019_1116.png" width="70%">
+</figure>
+
 2019 Experimental Stimuli Creation
 (Sara Belay, Katie Johnson, Bethany Grocock, Jessica Resor, Sangjin Ko)
 <figure>
