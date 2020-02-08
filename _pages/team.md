@@ -206,7 +206,7 @@ Jump to [principal investigator](#principal-investigator), [graduate research as
 ## Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.alumni_gradpost %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
