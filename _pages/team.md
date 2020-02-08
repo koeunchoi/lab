@@ -236,7 +236,7 @@ Jump to [principal investigator](#principal-investigator), [graduate research as
 </div>
 {% endif %}
 
-## Former Visitors & Students [Link](http://kchoi.org/team/former/)
+## Former Visitors & Students [*](http://kchoi.org/team/former/)
 <div class="row">
 
 <div class="col-sm-4 clearfix">
