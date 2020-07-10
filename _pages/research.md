@@ -32,10 +32,14 @@ Collaborators: [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-
 
 Technology has broadened the way we access information. We obtain information from a wide range of sources including human, print (book), and digital media (smartphone, tablet, laptop). This changing media landscape presents challenges to learners as they need to juggle information from various information sources. This problem is further complicated by the fact that often these sources provide conflicting information. When facing multiple sources providing different information, which source will learners choose to ask for information and learn from? The goal of the project is to provide a systematic understanding of how learners perceive different information sources and use that understanding to guide their future learning.
 
+This project has been made possible in part by a grant from the College of Liberal Arts and Human Sciences (CLAHS) at Virginia Tech.
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 250px; float: left; border: 10px"}
 
 **Child Temperament and Early Screen Time** 
 
 The American Academy of Pediatrics (AAP) has recommended no TV or entertainment screen media for children under two years of age (AAP, 2016). Despite these concerns, infants and toddlers spend a considerable amount of their waking hours looking at screens. To address the discrepancy between the guideline and real-world practice, it is crucial to understand why parents allow their young children to use screen media. Guided by an ecological system’s perspective, the study aims to examine the role of parent stress in the link between child characteristics and screen time in infants and toddlers.
+
+This project has been made possible in part by a grant from the Institute for Society, Culture and Environment (ISCE) at Virginia Tech.
 
 Collaborators: [Cynthia Smith](https://www.techkids.clahs.vt.edu/) (Children's Emotions Lab; Human Development and Family Science); [Lucy Eunkyung Shin](https://blogs.lt.vt.edu/hdgradstudents/meet-our-graduate-students/2015-cohort/) (Graduate Student; Human Development and Family Science)
