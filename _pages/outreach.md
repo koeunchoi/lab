@@ -18,6 +18,7 @@ August 20, 2020
 May 4, 2020
 
 **2019**
+
 <a href="https://koeunchoi.github.io/files/Choi_Flyer_2020-0227.pdf">Screen Time for Children</a> 
 <br>Rainbow Riders PTA Parent Lecture Series</br>
 February 27, 2019
