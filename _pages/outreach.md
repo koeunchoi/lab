@@ -14,14 +14,14 @@ permalink: /outreach/
 August 20, 2020
 
 <a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">Are you still watching? Using eye-tracking to understand learning from mobile media</a>
-<b> Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day </b>
-<b> May 4, 2020 </b>
+<br>Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day</br>
+May 4, 2020
 
 **2019**
 <a href="https://koeunchoi.github.io/files/Choi_Flyer_2020-0227.pdf">Screen Time for Children</a> 
-<b> Rainbow Riders PTA Parent Lecture Series</b>
-<b> February 27, 2019 </b>
+<br>Rainbow Riders PTA Parent Lecture Series</br>
+February 27, 2019
  
 <a href="http://www2.icat.vt.edu/sciencefestival/plan.html">What are you looking at? Eye-tracking technology station</a>
-<b> VT Science Festival </b>
-<b> November 16, 2019 </b>
+<br>VT Science Festival</br>
+November 16, 2019
