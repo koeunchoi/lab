@@ -11,7 +11,7 @@ permalink: /outreach/
 
 <a href="https://bit.ly/3aLikHk">School's back, now what? How to navigate education on and offline during the global pandemic</a>
 <br>Experts tips for parents newsletter on going back to school by Children and Screens</br>
-<br>August 20, 2020</br>
+August 20, 2020
 
 <a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">Are you still watching? Using eye-tracking to understand learning from mobile media</a>
 <b> Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day </b>
