@@ -42,7 +42,7 @@ permalink: /outreach/
 <p> &nbsp; </p>
 
 # 2020
-<a href="https://bit.ly/3aLikHk">[School's back, now what? How to navigate education on and offline during the global pandemic]
+<a href="https://bit.ly/3aLikHk">[School's back, now what? How to navigate education on and offline during the global pandemic]</a>
 Experts tips for parents newsletter on going back to school by Children and Screens
 August 20, 2020
 
