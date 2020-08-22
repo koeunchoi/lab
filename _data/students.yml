@@ -12,13 +12,6 @@
   number_educ: 1
   education1: Junior (Major - Human Development/Psychology; Minor - Disabilities Studies, Geography) 
   
-- name: Sara Belay
-  photo: Belay.png
-  info: Undergraduate Research Assistant
-  email: sbelay98@vt.edu
-  number_educ: 1
-  education1: Senior (Major - Clinical Neuroscience; Minor - Medicine and Society)
-
 - name: Taylor Covington
   photo: Covington.png
   info: Undergraduate Research Assistant
@@ -53,13 +46,6 @@
   email: ally22@vt.edu
   number_educ: 1
   education1: Sophomore (Major - Human Development)
-  
-- name: Rhea Bhatia
-  photo: Bhatia.png
-  info: Undergraduate Research Assistant
-  email: rheab@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Human Development)
 
 - name: Anvitha Metpally
   photo: Metpally.png
@@ -68,20 +54,6 @@
   number_educ: 1
   education1: Sophomore (Major - Clinical Neuroscience)
   
-- name: Eva Grumbine
-  photo: Grumbine.png
-  info: Undergraduate Research Assistant
-  email: evacat7@vt.edu
-  number_educ: 1
-  education1: Junior (Major - International Public Policy, Human Development)  
-
-- name: Valerie Salmon
-  photo: Salmon.png
-  info: Undergraduate Research Assistant
-  email: svaler3@vt.edu
-  number_educ: 1
-  education1: Sophomore (Major - Human Development, Minor - Disabilities Studies)
-
 - name: Breanne De Vera
   photo: DeVera.png
   info: Undergraduate Research Assistant
