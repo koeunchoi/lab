@@ -78,7 +78,7 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 ## Graduate Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.ga %}
+{% for member in site.data.grad %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
