@@ -301,7 +301,7 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 ## Lab Alumni - Lab Affiliates
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_affiliates %}
+{% for member in site.data.alumniaffiliates %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
