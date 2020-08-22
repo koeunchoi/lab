@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new graduate and undergraduate students to join the team** **!**
 
 
-Jump to [principal investigator](#principal-investigator), [graduate students](#graduate-students), [lab affiliates](#lab-affiliates), [undergraduate students](#undergraduate-students), [alumni](#lab-alumni-lab-affiliates)
+Jump to [principal investigator](#principal-investigator), [graduate students](#graduate-students), [lab affiliates](#lab-affiliates), [undergraduate students](#undergraduate-students), [alumni](#lab-alumni)
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
