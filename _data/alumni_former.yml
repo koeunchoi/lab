@@ -1,6 +1,41 @@
 - name: Ashleigh Bedwell
   photo: Bedwell.png
-  info: Undergraduate Research Assistant (Spring, Summer, Fall 2019)
+  info: (Was: Undergraduate Research Assistant - Spring, Summer, Fall 2019) Graduate Student in the Department of Occupational Therapy at Radford University
   email: bedwell1@vt.edu
   number_educ: 1
-  education1: Senior (Major - Psychology/Human Development)
+  education1: Was: Senior (Major - Psychology/Human Development)
+
+- name: Ashleigh Bedwell
+  photo: Bedwell.png
+  info: (Was: Undergraduate Research Assistant - Spring, Summer, Fall 2019) Graduate Student in the Department of Occupational Therapy at Radford University
+  email: bedwell1@vt.edu
+  number_educ: 1
+  education1: Was: Senior (Major - Psychology/Human Development)
+
+- name: Sara Belay
+  photo: Belay.png
+  info: (Was: Undergraduate Research Assistant - Summer, Fall, Winder 2019; Spring 2020)
+  email: sbelay98@vt.edu
+  number_educ: 1
+  education1: Was: Senior (Major - Clinical Neuroscience; Minor - Medicine and Society)
+
+- name: Rhea Bhatia
+  photo: Bhatia.png
+  info: (Was: Undergraduate Research Assistant - Summer, Fall, Winder 2019; Spring 2020)
+  email: rheab@vt.edu
+  number_educ: 1
+  education1: Was: Junior (Major - Human Development)
+  
+- name: Eva Grumbine
+  photo: Grumbine.png
+  info: (Was: Undergraduate Research Assistant - Fall 2019; Spring 2020)
+  email: evacat7@vt.edu
+  number_educ: 1
+  education1: Was: Junior (Major - International Public Policy, Human Development)  
+    
+- name: Valerie Salmon
+  photo: Salmon.png
+  info: (Was: Undergraduate Research Assistant - Fall 2019; Spring 2020)
+  email: svaler3@vt.edu
+  number_educ: 1
+  education1: Was: Sophomore (Major - Human Development, Minor - Disabilities Studies)
