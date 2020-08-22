@@ -1,16 +1,18 @@
 - name: Ashleigh Bedwell
   photo: Bedwell.png
-  info: (Was- Undergraduate Research Assistant - Spring, Summer, Fall 2019) Graduate Student in the Department of Occupational Therapy at Radford University
+  info: (Was- Undergraduate Research Assistant - Spring, Summer, Fall 2019) 
   email: bedwell1@vt.edu
-  number_educ: 1
+  number_educ: 2
   education1: Was- Senior (Major - Psychology/Human Development)
+  education2: Graduate Student in the Department of Occupational Therapy at Radford University
 
 - name: Sara Belay
   photo: Belay.png
-  info: (Was- Undergraduate Research Assistant - Summer, Fall, Winder 2019; Spring 2020) Clinical Research Assistant at General Dynamics Information Technology, Walter Reed National Military Medical Center
+  info: (Was- Undergraduate Research Assistant - Summer, Fall, Winder 2019; Spring 2020) 
   email: sbelay98@vt.edu
-  number_educ: 1
+  number_educ: 2
   education1: Was- Senior (Major - Clinical Neuroscience; Minor - Medicine and Society)
+  education2: Clinical Research Assistant at General Dynamics Information Technology, Walter Reed National Military Medical Center
 
 - name: Rhea Bhatia
   photo: Bhatia.png
