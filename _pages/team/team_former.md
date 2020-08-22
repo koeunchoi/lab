@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/former/
 ---
 
-## Former Visitors & Students
+## Lab Alumni - Undergraduate Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_former %}
