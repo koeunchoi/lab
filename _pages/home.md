@@ -46,7 +46,11 @@ We are grateful for funding from the [Institute for Creativity, Arts, and Techno
 
 <figure class="fourth">
   <!--img src="//www.assets.cms.vt.edu/images/Standard/Standard_RGB.svg" style="width: 130px"-->
+  <a href="https://icat.vt.edu/">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICAT.png" style="width: 310px">
+  </a>
+  <a href="https://liberalarts.vt.edu/">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 150px">
+  </a>
 </figure>
 
