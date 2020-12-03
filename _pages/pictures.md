@@ -67,6 +67,12 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/LabSpeaker_Simek_2020_0924.png" width="70%">
 </figure>
 
+2020 Lucy Graduation - May 15
+(Lucy Shin, Koeun Choi)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/Graduation_Shin_2020_0515.png" width="70%">
+</figure>
+
 2020 Spring End of Semester Zoom Lab Party - May 4
 (Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Kammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
@@ -81,6 +87,12 @@ permalink: /pictures/
 </figure>
 
 # 2019
+
+2019 Fall End of Semester Lab Pizza Party - December 13
+(Lucy Shin, Rhea Bhatia, Ally Copeland, Taylor Covington, Valerie Salmon, Michelle Tran, Jessica Resor, Koeun Choi, Katie Johnson, Ava Bir, Eman Ayaz)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2019_1213.png" width="70%">
+</figure>
 
 2019 VT Science Festival - November 16
 (Eman Ayaz, Sara Belay, Rhea Bhatia, Ava Bir, Ally Copeland, Taylor Covington, Breanne De Vera, Eva Grumbine, Bethany Grocock, Katie Johnson, Anvitha Metpally, Michelle Tran, Jessica Resor, Lucy Shin)
