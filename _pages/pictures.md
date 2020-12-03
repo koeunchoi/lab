@@ -76,7 +76,7 @@ permalink: /pictures/
 "Are You Still Watching on your Phone or TV? The Impact of Mobile Media on Visual Attention and Learning"
 (Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Kammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2020_0424.png" width="70%">
 </figure>
 https://liberalarts.vt.edu/news/academic-news/2020/08/students-participated-in-2020-dennis-dean-conference.html
 
