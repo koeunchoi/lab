@@ -48,10 +48,10 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_1202.png" width="70%">
 </figure>
 
-2020 Invited Speaker (Sarah Grocock, Montessori Teacher)- October 7
+2020 Invited Speaker (Sarah Grocock, Montessori Teacher) - October 7
 (Bethany Grocock, Koeun Choi, Sarah Grocock)
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/LabSpeaker_Simek_2020_1007.png" width="70%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/LabSpeaker_Grocock_2020_1007.png" width="70%">
 </figure>
 
 2020 Invited Speaker (Wendy Simek, Early Childhood Educator) - September 23
@@ -67,7 +67,7 @@ permalink: /pictures/
 </figure>
 
 2020 Spring End of Semester Zoom Lab Party - 5/4/20
-(Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Caroline Krammer, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
+(Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Krammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
