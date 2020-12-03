@@ -66,19 +66,23 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
 
-2020 Spring End of Semester Zoom Lab Party - 5/4/20
+2020 Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day - May 4
+<a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">Are you still watching? Using eye-tracking to understand learning from mobile media</a>
+
+
+2020 Spring End of Semester Zoom Lab Party - May 4
 (Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Kammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
 
 2020 Dennis Dean Undergraduate Research and Creative Scholarship Conference - April 24
-"Are You Still Watching on your Phone or TV? The Impact of Mobile Media on Visual Attention and Learning"
-(Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Kammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
+"Are You Still Watching on your Phone or TV? The Impact of Mobile Media on Visual Attention and Learning" 
+<a href="https://liberalarts.vt.edu/news/academic-news/2020/08/students-participated-in-2020-dennis-dean-conference.html">Are you still watching? Using eye-tracking to understand learning from mobile media</a>
+(Sara Belay, Caroline Kammer, Rhea Bhatia, Ally Copeland, Breanne De Vera, Molly Simek, Eva Grumbine, Bethany Grocock, Katie Johnson,  Michelle Tran, Valerie Salmon, Taylor Covington, Anvitha Metpally, Ava Bir, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2020_0424.png" width="70%">
 </figure>
-https://liberalarts.vt.edu/news/academic-news/2020/08/students-participated-in-2020-dennis-dean-conference.html
 
 # 2019
 2019 Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day - May 4
