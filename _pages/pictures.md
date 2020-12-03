@@ -43,7 +43,7 @@ permalink: /pictures/
 
 # 2020
 2020 Fall End of Semester Zoom Lab Party - 12/2/20
-(Ava Bir, Koeun Choi, Caroline Krammer, Eman Ayaz, Katie Johnson, Jisun Kim, Breanne De Vera, Anvitha Metpally, Taylor Covington, Michelle Tran, Molly Simek, Martha Drapac, Bethany Grocock, Ally Copeland)
+(Ava Bir, Koeun Choi, Caroline Kammer, Eman Ayaz, Katie Johnson, Jisun Kim, Breanne De Vera, Anvitha Metpally, Taylor Covington, Michelle Tran, Molly Simek, Martha Drapac, Bethany Grocock, Ally Copeland)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_1202.png" width="70%">
 </figure>
@@ -61,13 +61,13 @@ permalink: /pictures/
 </figure>
 
 2020 Science Festival - September 23
-(Bethany Grocock, Koeun Choi, Breanne De Vera, Caroline Krammer, Molly Simek, Taylor Covington, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Ally Copeland, Valerie Salmon, Eva Grumbine, Eman Ayaz)
+(Bethany Grocock, Koeun Choi, Breanne De Vera, Caroline Kammer, Molly Simek, Taylor Covington, Michelle Tran, Katie Johnson, Jisun Kim, Ava Bir, Anvitha Metpally, Ally Copeland, Valerie Salmon, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
 
 2020 Spring End of Semester Zoom Lab Party - 5/4/20
-(Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Krammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
+(Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Kammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
