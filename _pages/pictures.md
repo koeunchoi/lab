@@ -42,26 +42,26 @@ permalink: /pictures/
 <p> &nbsp; </p>
 
 # 2020
-2020 End of Semester Zoom Party
+2020 Spring End of Semester Zoom Party - 5/4
 (Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
 
 # 2019
-2019 VT Science Festival
+2019 VT Science Festival - 11/16
 (Eman Ayaz, Sara Belay, Rhea Bhatia, Ava Bir, Ally Copeland, Taylor Covington, Breanne De Vera, Eva Grumbine, Bethany Grocock, Katie Johnson, Anvitha Metpally, Michelle Tran, Jessica Resor, Lucy Shin)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/VTSciFest_2019_1116.png" width="70%">
 </figure>
 
-2019 Experimental Stimuli Creation
+2019 Experimental Stimuli Creation - 9/13
 (Sara Belay, Katie Johnson, Bethany Grocock, Jessica Resor, Sangjin Ko)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/HR_2019_0913.png" width="70%">
 </figure>
 
-2019 Dennis Dean Undergraduate Research and Creative Scholarship Conference 
+2019 Dennis Dean Undergraduate Research and Creative Scholarship Conference - 4/19
 (Ashleigh Bedwell, Katie Johnson, Bethany Grocock, Lucy Shin, Koeun Choi)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2019_0419.png" width="70%">
