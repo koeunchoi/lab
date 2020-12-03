@@ -54,7 +54,7 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/LabSpeaker_Grocock_2020_1007.png" width="70%">
 </figure>
 
-2020 Science Festival - September 29, October 1, October 6 
+2020 VT Science Festival - September 29, October 1, October 6 
 <a href="https://icat.vt.edu/science-festival/exhibitors/do-you-know-what-i-m-looking-at--tracking-eye-movements-during-m.html">Do you know what I'm looking at? Tracking eye movements during math games </a>
 (Koeun Choi, Caroline Hornburg, Ally Copeland, Taylor Covington, Bethany Grocock, Jisun Kim, Ava Bir, Caroline Kammer, Molly Simek, Brianna Whitmore, Breanne De Vera, Shawnice Johnson, Anvitha Metpally, Katie Johnson, Eman Ayaz, Michelle Tran)
 <figure>
@@ -67,19 +67,15 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/LabSpeaker_Simek_2020_0924.png" width="70%">
 </figure>
 
-2020 Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day - May 4
-<a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">Are you still watching? Using eye-tracking to understand learning from mobile media</a>
-
 2020 Spring End of Semester Zoom Lab Party - May 4
 (Bethany Grocock, Koeun Choi, Breanne De Vera, Molly Simek, Taylor Covington, Lucy Shin, Michelle Tran, Katie Johnson, Sara Belay, Jisun Kim, Ava Bir, Anvitha Metpally, Rhea Bhatia, Caroline Kammer, Ally Copeland, Jessica Resor, Valerie Salmon, Eva Grumbine, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_0504.png" width="70%">
 </figure>
 
-2020 Dennis Dean Undergraduate Research and Creative Scholarship Conference - April 24
-"Are You Still Watching on your Phone or TV? The Impact of Mobile Media on Visual Attention and Learning" 
-<a href="https://liberalarts.vt.edu/news/academic-news/2020/08/students-participated-in-2020-dennis-dean-conference.html">Are you still watching? Using eye-tracking to understand learning from mobile media</a>
-(Sara Belay, Caroline Kammer, Rhea Bhatia, Ally Copeland, Breanne De Vera, Molly Simek, Eva Grumbine, Bethany Grocock, Katie Johnson,  Michelle Tran, Valerie Salmon, Taylor Covington, Anvitha Metpally, Ava Bir, Eman Ayaz)
+<a href="https://liberalarts.vt.edu/news/academic-news/2020/08/students-participated-in-2020-dennis-dean-conference.html">2020 Dennis Dean Undergraduate Research and Creative Scholarship Conference</a> - April 24
+<br><a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">2020 Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day</a> - May 4 <br>
+ "Are you still watching on your phone or TV? The impact of mobile media on visual attention and learning" (Sara Belay, Caroline Kammer, Rhea Bhatia, Ally Copeland, Breanne De Vera, Molly Simek, Eva Grumbine, Bethany Grocock, Katie Johnson,  Michelle Tran, Valerie Salmon, Taylor Covington, Anvitha Metpally, Ava Bir, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2020_0424.png" width="70%">
 </figure>
