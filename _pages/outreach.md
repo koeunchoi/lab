@@ -9,6 +9,10 @@ permalink: /outreach/
 
 **2020**
 
+<a href="https://icat.vt.edu/science-festival/exhibitors/do-you-know-what-i-m-looking-at--tracking-eye-movements-during-m.html">Do you know what I'm looking at? Tracking eye movements during math games </a>
+<br>2020 Virginia Tech Science Festival<br>
+September 29, October 1, October 6 
+
 <a href="https://bit.ly/3aLikHk">School's back, now what? How to navigate education on and offline during the global pandemic</a>
 <br>Experts tips for parents newsletter on going back to school by Children and Screens<br>
 August 20, 2020
