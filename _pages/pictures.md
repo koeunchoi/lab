@@ -74,7 +74,7 @@ permalink: /pictures/
 </figure>
 
 <a href="https://liberalarts.vt.edu/news/academic-news/2020/08/students-participated-in-2020-dennis-dean-conference.html">2020 Dennis Dean Undergraduate Research and Creative Scholarship Conference</a> - April 24
-<br><a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">2020 Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day</a> - May 4 <br>
+<a href="https://icat.vt.edu/events/2020/05/icat-c-i-day-2020/are-you-still-watching--using-eye-tracking-to-understand-learnin.html">2020 Institute for Creativity, Arts, and Technology (ICAT) Creativity + Innovation Day</a> - May 4
  "Are you still watching on your phone or TV? The impact of mobile media on visual attention and learning" (Sara Belay, Caroline Kammer, Rhea Bhatia, Ally Copeland, Breanne De Vera, Molly Simek, Eva Grumbine, Bethany Grocock, Katie Johnson,  Michelle Tran, Valerie Salmon, Taylor Covington, Anvitha Metpally, Ava Bir, Eman Ayaz)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2020_0424.png" width="70%">
