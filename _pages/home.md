@@ -13,6 +13,11 @@ We have focused on four aspects including (1) examining the impact of technology
 To tackle these questions, we employ multiple methods such as experiments, individual difference measures, eye-tracking, and computational and machine learning approaches.
 
 Our current research focuses on children’s curiosity, exploration, and information seeking in the context of digital technology (see [Research](http://kchoi.org/research/)).
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png" width="60%">
+</figure>
+
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -23,12 +28,11 @@ Our current research focuses on children’s curiosity, exploration, and informa
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png" alt="Slide 1" />
-        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_1202.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_1202.png" alt="Slide 1" />
+        </div>        
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/EndSemLabParty_2019_1213.png" alt="Slide 2" />
         </div>        
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
