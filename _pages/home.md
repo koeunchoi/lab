@@ -8,7 +8,7 @@ permalink: /
 
 We are a research group at the [Virginia Tech](https://vt.edu/). Our goal is to connect cognitive development and digital media technology to explain and support children’s learning.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png){: style="width: 300px; float: right; border: 10px"}
 
 <!--<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png" width="50%">
