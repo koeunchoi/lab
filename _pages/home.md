@@ -38,7 +38,8 @@ Our current research focuses on children’s curiosity, exploration, and informa
   <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </a>
+  </a>  
+  
 </div>
 
 
