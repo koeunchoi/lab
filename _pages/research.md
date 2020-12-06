@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 300px; float: right; border: 10px"}
 
 **Mobile learning across the lifespan: Processing and learning information from mobile media technology in children, young adults, and older adults**
 
