@@ -15,7 +15,7 @@ To tackle these questions, we employ multiple methods such as experiments, indiv
 Our current research focuses on children’s curiosity, exploration, and information seeking in the context of digital technology (see [Research](http://kchoi.org/research/)).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png" width="60%" class="center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png" width="50%" class="center">
 </figure>
 
  
