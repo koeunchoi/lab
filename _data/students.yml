@@ -39,13 +39,6 @@
   email: michellethuynh18@vt.edu
   number_educ: 1
   education1: Junior (Major - Clinical Neuroscience; Minor - Psychology/Sociology)
-  
-- name: Ally Copeland
-  photo: Copeland.png
-  info: Undergraduate Research Assistant
-  email: ally22@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Human Development)
 
 - name: Anvitha Metpally
   photo: Metpally.png
@@ -61,23 +54,16 @@
   number_educ: 1
   education1: Junior (Major - Biological Sciences, Minor - Chemistry/Disabilities Studies)
   
-- name: Caroline Kammer
-  photo: Kammer.png
-  info: Undergraduate Research Assistant
-  email: ckammer@vt.edu
-  number_educ: 1
-  education1: Senior (Major - Human Development, Minor - Disabilities Studies)
-  
-- name: Molly Simek
-  photo: Simek.png
-  info: Undergraduate Research Assistant
-  email: mollys15@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Biochemistry, Minor - Disabilities Studies/Chemistry)
-  
 - name: Martha Drapac
   photo: Drapac.png
-  info: Undergraduate Honors Credit Student
+  info: Undergraduate Research Assistant (Undergraduate Honors Credit - Fall 2020)
   email: drapacml@vt.edu
   number_educ: 1
   education1: Junior (Major - Human Nutrition, Foods, and Exercise)
+
+- name: Jordan Teel
+  photo: Teel.png
+  info: Undergraduate Research Assistant
+  email: jteel@vt.edu
+  number_educ: 1
+  education1: Junior (Major - Clinical Neuroscience, Minor - Spanish)
