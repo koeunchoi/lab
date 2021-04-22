@@ -41,7 +41,7 @@
   link: 
     url: https://doi.org/10.1111/cdev.12810
     display: Child Development, 89, 1378-1393 (2018)
-  highlight: 0
+  highlight: 1
 
 - title: "Knowing how to fold 'em: Paper folding across early childhood"
   image:
@@ -86,7 +86,7 @@
   link: 
     url: https://doi.org/10.1177/0956797616636110
     display:  Psychological Science, 27, 726-736 (2016)
-  highlight: 0
+  highlight: 1
 
 - title: "Toddlers’ word learning from contingent and noncontingent video on touch screens"
   image: 
