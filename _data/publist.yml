@@ -5,7 +5,7 @@
   link: 
     url: https://doi.org/10.3389/fpsyg.2021.621372
     display: Frontiers in Psychology (2021)
-  highlight: 0
+  highlight: 1
 
 - title: "Drawing across media: A cross-sectional experiment on preschoolers’ drawings produced using traditional versus electronic mediums."
   image: 
@@ -14,7 +14,7 @@
   link: 
     url: https://doi.org/10.1037/dev0000825
     display: Developmental Psychology (2020)
-  highlight: 0
+  highlight: 1
 
 - title: "Observing child-led exploration improves parents' causal inferences"
   image: 
@@ -36,12 +36,12 @@
 
 - title: "Understanding the transfer deficit: Contextual mismatch, proactive interference, and working memory affect toddlers’ video-based transfer"
   image: Child_WM.png
-  description: This paper is about underlying mechanisms of toddlers' transfer of learning from video.
+ # description: This paper is about underlying mechanisms of toddlers' transfer of learning from video.
   authors: Choi, K., Kirkorian, H. L., & Pempek, T. A.
   link: 
     url: https://doi.org/10.1111/cdev.12810
     display: Child Development, 89, 1378-1393 (2018)
-  highlight: 1
+  highlight: 0
 
 - title: "Knowing how to fold 'em: Paper folding across early childhood"
   image:
@@ -86,7 +86,7 @@
   link: 
     url: https://doi.org/10.1177/0956797616636110
     display:  Psychological Science, 27, 726-736 (2016)
-  highlight: 1
+  highlight: 0
 
 - title: "Toddlers’ word learning from contingent and noncontingent video on touch screens"
   image: 
