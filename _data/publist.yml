@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "Touchscreens for whom? Working memory and age moderate the impact of contingency on toddlers’ transfer from video"
-  image: 
+  image: Pub.png
 #  description: 
   authors: Choi, K., Kirkorian, H. L., & Pempek, T. A. 
   link: 
@@ -35,16 +35,16 @@
   highlight: 1
 
 - title: "Observing child-led exploration improves parents' causal inferences"
-  image: 
+  image: Pub.png
 #  description: This paper is about how child-led exploration improves observing parent's flexible causal inferences.
   authors: Choi, K., Grados, M., & Bonawitz, E.
   link: 
     url: https://mindmodeling.org/cogsci2019/papers/0272/index.html
     display: Proceedings of the 41th Annual Conference of the Cognitive Science Society (2019)
-  highlight: 0
+  highlight: 1
   
 - title: "American parents’ active involvement mediates the impact of background television on toddlers' play"
-  image: 
+  image: Pub.png
 #  description: This paper is about how parent’s active play involvement mediates the relation between background television and child play.
   authors: Kirkorian, H. L., Choi, K., & Anderson, D. R.
   link: 
@@ -59,10 +59,10 @@
   link: 
     url: https://doi.org/10.1111/cdev.12810
     display: Child Development, 89, 1378-1393 (2018)
-  highlight: 0
+  highlight: 1
 
 - title: "Knowing how to fold 'em: Paper folding across early childhood"
-  image: 
+  image: Pub.png
 #  description: This paper is about age-related changes in manual paper-folding across early childhood.
   authors: Travers, B. G., Kirkorian, H. L., Jiang, M. J., Choi, K., Rosengren, K. S., Pavalko, P., & Jobin, P.
   link:
@@ -71,16 +71,16 @@
   highlight: 0
 
 - title: "Preschoolers are more likely to direct questions to adults than to other children (or selves) during spontaneous conversational acts"
-  image: 
+  image: Pub.png
 #  description: This paper is about preschoolers’ spontaneous questions asking in a naturalistic padagogical setting.
   authors: Choi, K., Lapidow, E., Austin, J., Shafto, P. & Bonawitz, E.
   link:
     url: http://mindmodeling.org/cogsci2018/papers/0061/index.html
     display: Proceedings of the 40th Annual Conference of the Cognitive Science Society (2018)
-  highlight: 0
+  highlight: 1
 
 - title: "Associations between toddlers' naturalistic media exposure and observed learning from screens"
-  image: 
+  image: Pub.png
 #  description: This paper is about toddlers’ explosure to touchscreens at home and learning task performance in the lab.
   authors: Kirkorian, H. L., & Choi, K.
   link: 
@@ -89,7 +89,7 @@
   highlight: 0
 
 - title: "The role of online processing in young children's ability to learn from interactive and noninteractive media"
-  image: 
+  image: Pub.png
  # description: This chapter is about young children’ online processing of digital media.
   authors: Kirkorian, H. L., Pempek, T. A., & Choi, K.
   link: 
@@ -98,16 +98,16 @@
   highlight: 0
 
 - title: "Touch or watch to learn? Toddlers’ object retrieval using contingent and noncontingent video"
-  image: 
+  image: Pub.png
  # description: This paper is about toddlers’ object retrieval from touchscreens.
   authors: Choi, K., & Kirkorian, H. L.
   link: 
     url: https://doi.org/10.1177/0956797616636110
     display:  Psychological Science, 27, 726-736 (2016)
-  highlight: 0
+  highlight: 1
 
 - title: "Toddlers’ word learning from contingent and noncontingent video on touch screens"
-  image: 
+  image: Pub.png
   #description: This paper is about toddlers’ word learning from touchscreens.
   authors: Kirkorian, H. L., & Choi, K.
   link: 
