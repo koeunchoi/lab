@@ -8,7 +8,7 @@
   highlight: 1
   
 - title: "Why do parents use screen media with toddlers? The role of child temperament and parenting stress in early screen use"
-  image: Pub.png
+  image: 
 #  description: 
   authors: Shin, E., Choi, K., Resor, J., & Smith, C. L.
   link: pub.png
@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "Touchscreens for whom? Working memory and age moderate the impact of contingency on toddlers’ transfer from video"
-  image: Pub.png
+  image: 
 #  description: 
   authors: Choi, K., Kirkorian, H. L., & Pempek, T. A. 
   link: 
@@ -59,7 +59,7 @@
   link: 
     url: https://doi.org/10.1111/cdev.12810
     display: Child Development, 89, 1378-1393 (2018)
-  highlight: 1
+  highlight: 0
 
 - title: "Knowing how to fold 'em: Paper folding across early childhood"
   image: 
@@ -104,7 +104,7 @@
   link: 
     url: https://doi.org/10.1177/0956797616636110
     display:  Psychological Science, 27, 726-736 (2016)
-  highlight: 1
+  highlight: 0
 
 - title: "Toddlers’ word learning from contingent and noncontingent video on touch screens"
   image: 
