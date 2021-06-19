@@ -5,7 +5,7 @@
   link: 
     url: 
     display: Journal of Children and Media (in press)
-  highlight: 1
+  highlight: 0
   
 - title: "Why do parents use screen media with toddlers? The role of child temperament and parenting stress in early screen use"
   image: Pub.png
@@ -32,7 +32,7 @@
   link: 
     url: https://doi.org/10.1037/dev0000825
     display: Developmental Psychology (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Observing child-led exploration improves parents' causal inferences"
   image: Pub.png
