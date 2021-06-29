@@ -363,7 +363,8 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 
 
 
-## Lab Alumni - Undergraduate Students [(Full list *)](http://kchoi.org/team/former/)
+## Lab Alumni - Undergraduate Students 
+###[(Full list *)](http://kchoi.org/team/former/)
   
 <!--<div class="row">  
 <!--<div class="col-sm-6 clearfix">-->
