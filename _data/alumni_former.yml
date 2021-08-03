@@ -33,6 +33,20 @@
   info: (Was_Undergraduate Research Assistant - Fall 2019; Spring 2020)
   email: svaler3@vt.edu
   number_educ: 1
+
+- name: Caroline Kammer
+  photo: Kammer.png
+  info: (Was_Undergraduate Research Assistant - Spring 2020; Fall 2020)
+  email: ckammer@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development, Minor - Disabilities Studies)
+  
+- name: Molly Simek
+  photo: Simek.png
+  info: (Was_Undergraduate Research Assistant - Spring 2020; Fall 2020)
+  email: mollys15@vt.edu
+  number_educ: 1
+  education1: (Major - Biochemistry, Minor - Disabilities Studies/Chemistry)
   
 - name: Bethany Grocock
   photo: Grocock.png
@@ -74,18 +88,3 @@
   number_educ: 1
   education1: (Major - Human Development)
   education2: Graduate Student in Occupational Therapy at Virginia Commonwealth University
-  
-- name: Caroline Kammer
-  photo: Kammer.png
-  info: (Was_Undergraduate Research Assistant - Spring 2020; Fall 2020)
-  email: ckammer@vt.edu
-  number_educ: 1
-  education1: (Major - Human Development, Minor - Disabilities Studies)
-  
-- name: Molly Simek
-  photo: Simek.png
-  info: (Was_Undergraduate Research Assistant - Spring 2020; Fall 2020)
-  email: mollys15@vt.edu
-  number_educ: 1
-  education1: (Major - Biochemistry, Minor - Disabilities Studies/Chemistry)
-  
