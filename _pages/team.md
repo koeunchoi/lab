@@ -366,6 +366,14 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 ## Lab Alumni - Undergraduate Students 
 [Click here for the full list of our undergraduate alumni *](http://kchoi.org/team/former/)
   
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+{% for member in site.data.alumni_undergrad %}
+{{ member.name }}
+{% endfor %}
+</div>
+   
 <!--<div class="row">  
 <!--<div class="col-sm-6 clearfix">-->
 <!--<h4>Undergraduate Students</h4>-->
