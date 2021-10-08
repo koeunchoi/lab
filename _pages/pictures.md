@@ -41,6 +41,14 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
+# 2021
+2021 Child-Robot Theater Afterschool Program Research Project - 9/22/21, 9/29/21
+(Robots: Pleo, Aibo, Pepper, Milo, Nao, Researchers: Yeaji Lee, Irfath Akter, Jia Dong, Koeun Choi, Shuqi Yu, Martha Drapac, Taylor Covington, Jisun Kim, Chelsea Lyles, Myounghoon (Philart) Jeon, Devanshu Vajir, Breanne De Vera, Michelle Tran)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CRT_2021_0922-29.png" width="70%">
+</figure>
+
+
 # 2020
 2020 Fall End of Semester Zoom Lab Party - 12/2/20
 (Ava Bir, Koeun Choi, Caroline Kammer, Eman Ayaz, Katie Johnson, Jisun Kim, Breanne De Vera, Anvitha Metpally, Taylor Covington, Michelle Tran, Molly Simek, Martha Drapac, Bethany Grocock, Ally Copeland)
