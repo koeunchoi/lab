@@ -27,7 +27,7 @@ Thank you for your interest in our research projects! We are currently running t
 **Age**: 18-25 or 55-58 years
 
 **Who?** 3 - 5 year olds who live in the U.S. and speak English and their parents
-T
+
 **Time**: About 40 minutes 
 
 **Do children learn new words while reading a book over Zoom?** 
