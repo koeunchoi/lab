@@ -15,10 +15,13 @@ Thank you for your interest in our research projects! We are currently running t
 **Current Studies**: If you are interested in participating in any of our ongoing studies below, click to learn more or participate at any time!
 
 ******************************************************************************************************************************
+******************************************************************************************************************************
 
 <!--<li>..</li>-->
 
 ## Particiate in our online studies!
+
+******************************************************************************************************************************
 
 ### Let’s read a book together!
 
