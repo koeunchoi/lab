@@ -22,7 +22,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 ### Let’s read a book together!
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 200px; float: right; border: 30px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 200px; float: left; border: 30px"}
 
 **Age**: 18-25 or 55-58 years
 
