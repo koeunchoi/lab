@@ -25,7 +25,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 ### Let’s read a book together!
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 150px; float: right; border: 30px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 150px; float: left; border: 30px"}
 
 **Who?** 3 - 5 year olds who live in the U.S. and speak English and their parents
 
@@ -46,7 +46,7 @@ Click to learn more or participate at any time!
 
 ### Adults’ Mobile Learning Research Opportunity
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 150px; float: left; border: 30px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 150px; float: right; border: 30px"}
 
 
 **Age**: 18-25 or 55-58 years
