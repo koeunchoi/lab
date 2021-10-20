@@ -46,6 +46,7 @@ Click to learn more or participate at any time!
 
 
 ## Particiate in our in-person studies!
+******************************************************************************************************************************
 
 ### Adults’ Mobile Learning Research Opportunity
 
