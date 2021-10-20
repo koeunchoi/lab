@@ -45,7 +45,7 @@ Click to learn more or participate at any time!
 
 ### Adults’ Mobile Learning Research Opportunity
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 200px; float: right; border: 30px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 200px; float: right; border: 30px"}
 
 **Age**: 18-25 or 55-58 years
 
