@@ -38,7 +38,7 @@ Parents will complete an online survey about their child (background, media use,
 **Questions?** Contact the researcher: koeun@vt.edu or jisunk@vt.edu
 This is a Virginia Tech research study (IRB #21-565).
 
-Click to learn more or participate at any time!
+**Click to learn more or participate at any time!**
 
 
 ******************************************************************************************************************************
@@ -55,7 +55,7 @@ Click to learn more or participate at any time!
 
 **Age**: 18-25 or 55-58 years
 
-Click to learn more or participate at any time!
+**Click to learn more or participate at any time!**
 
 
 ******************************************************************************************************************************
