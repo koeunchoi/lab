@@ -10,10 +10,6 @@ permalink: /participate/sb/
 
 ******************************************************************************************************************************
 
-Thank you for your interest in our research projects! Please find more details about each study below. Interested in participating, you can sign up using the sign-up link for each study below.
-
-******************************************************************************************************************************
-
 
 ## **Let’s read a book together!**
 
