@@ -15,7 +15,7 @@ Thank you for your interest in our research projects! Please find more details a
 ******************************************************************************************************************************
 
 
-## Let’s read a book together!
+## **Let’s read a book together!**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 250px; float: left; border: 300px"}
 
