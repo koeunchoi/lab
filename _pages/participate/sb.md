@@ -23,7 +23,7 @@ permalink: /participate/sb/
   - Children will read a storybook with a researcher over Zoom and answer questions for 30 minutes. 
   - Parents will complete an online survey about their child (background, media use, development), which will take 10 minutes.
 
-**Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisunk@vt.edu](jisunk@vt.edu)
+**Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisunk@vt.edu](jisunk@vt.edu).
 
 This is a Virginia Tech research study (IRB #21-565).
 
