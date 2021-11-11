@@ -25,7 +25,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 ### Let’s read a book together!
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 150px; float: left; border: 100px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 150px; float: left; border: 200px"}
 
 **Who?** 3 - 5 year olds who live in the U.S. and speak English and their parents
 
