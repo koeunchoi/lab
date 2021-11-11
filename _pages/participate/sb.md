@@ -30,7 +30,7 @@ Thank you for your interest in our research projects! Please find more details a
 **Questions?** Contact the researcher: koeun@vt.edu or jisunk@vt.edu
 This is a Virginia Tech research study (IRB #21-565).
 
-Schedule an appointment [here!](https://virginiatech.qualtrics.com/jfe/form/SV_a5iTBNDiUassnFI)
+**Schedule an appointment [here!](https://virginiatech.qualtrics.com/jfe/form/SV_a5iTBNDiUassnFI)**
 
 
 ******************************************************************************************************************************
