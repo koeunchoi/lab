@@ -19,7 +19,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 <!--<li>..</li>-->
 
-## Particiate in our **online studies**!
+## **Particiate in our online studies**!
 
 ******************************************************************************************************************************
 
