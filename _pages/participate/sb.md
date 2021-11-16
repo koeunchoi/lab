@@ -22,12 +22,13 @@ permalink: /participate/sb/
 **Do children learn new words while reading a book over Zoom?** 
   - Children will read a storybook with a researcher over Zoom and answer questions for 30 minutes. 
   - Parents will complete an online survey about their child (background, media use, development), which will take 10 minutes.
+  - $10 USD Amazon gift card upon the completion of both the Zoom session and the online survey.
 
 **Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisunk@vt.edu](jisunk@vt.edu).
 
 This is a Virginia Tech research study (IRB #21-565).
 
-**Schedule an appointment [here!](https://virginiatech.qualtrics.com/jfe/form/SV_a5iTBNDiUassnFI)**
+**Schedule an appointment [here!](https://virginiatech.qualtrics.com/jfe/form/SV_1B47dsy7rBpzB9Y)**
 
 
 ******************************************************************************************************************************
