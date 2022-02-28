@@ -23,35 +23,35 @@
   
 - name: Eva Grumbine
   photo: Grumbine.png
-  info: (Was_ Undergraduate Research Assistant - Fall 2019; Spring 2020)
+  info: Undergraduate Research Assistant - Fall 2019; Spring 2020
   email: evacat7@vt.edu
   number_educ: 1
   education1: (Major - International Public Policy, Human Development)  
     
 - name: Valerie Salmon
   photo: Salmon.png
-  info: (Was_Undergraduate Research Assistant - Fall 2019; Spring 2020)
+  info: Undergraduate Research Assistant - Fall 2019; Spring 2020
   email: svaler3@vt.edu
   number_educ: 1
   education1: (Major - Human Developmentm, Minor - Disabilities Studies)  
 
 - name: Caroline Kammer
   photo: Kammer.png
-  info: (Was_Undergraduate Research Assistant - Spring 2020; Fall 2020)
+  info: Undergraduate Research Assistant - Spring 2020; Fall 2020
   email: ckammer@vt.edu
   number_educ: 1
   education1: (Major - Human Development, Minor - Disabilities Studies)
   
 - name: Molly Simek
   photo: Simek.png
-  info: (Was_Undergraduate Research Assistant - Spring 2020; Fall 2020)
+  info: Undergraduate Research Assistant - Spring 2020; Fall 2020
   email: mollys15@vt.edu
   number_educ: 1
   education1: (Major - Biochemistry, Minor - Disabilities Studies/Chemistry)
   
 - name: Bethany Grocock
   photo: Grocock.png
-  info: (Was_Undergraduate Research Assistant
+  info: Undergraduate Research Assistant - Spring, Fall 2019; Spring, Summer, Fall 2020; Spring 2021
   email: bkg99@vt.edu
   number_educ: 1
   education1: (Major - Human Development/Spanish)
@@ -59,7 +59,7 @@
   
 - name: Katie Johnson
   photo: Johnson.png
-  info: Undergraduate Research Assistant
+  info: Undergraduate Research Assistant - Spring, Fall 2019; Spring, Summer, Fall 2020; Spring 2021
   email: krj99@vt.edu
   number_educ: 1
   education1: (Major - Human Development/Psychology; Minor - Disabilities Studies, Geography) 
@@ -67,7 +67,7 @@
 
 - name: Eman Ayaz
   photo: Ayaz.png
-  info: Undergraduate Research Assistant
+  info: Undergraduate Research Assistant - Fall 2019; Spring, Fall 2020; Spring 2021 
   email: emanayaz@vt.edu
   number_educ: 1
   education1: (Major - Human Development)
@@ -75,7 +75,7 @@
   
 - name: Anvitha Metpally
   photo: Metpally.png
-  info: Undergraduate Research Assistant
+  info: Undergraduate Research Assistant - Fall 2019; Spring, Summer, Fall 2020; Spring 2021 
   email: anvitha1@vt.edu
   number_educ: 1
   education1: Junior (Major - Clinical Neuroscience)
@@ -84,8 +84,53 @@
   
 - name: Ally Copeland
   photo: Copeland.png
-  info: (Was_Undergraduate Research Assistant - Fall 2019; Spring 2020; Fall 2020)
+  info: Undergraduate Research Assistant - Fall 2019; Spring, Summer, Fall 2020
   email: ally22@vt.edu
   number_educ: 1
   education1: (Major - Human Development)
   education2: Graduate Student in Occupational Therapy at Virginia Commonwealth University
+  
+- name: Taylor Covington
+  photo: Covington.png
+  info: Undergraduate Research Assistant - Fall 2019; Spring, Summer, Fall 2020, Spring, Fall 2021
+  email: taylc99@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development)
+  education2: Graduate Student in Occupational Therapy at Virginia Commonwealth University
+
+- name: Ava Bir
+  photo: Bir.png
+  info: Undergraduate Research Assistant - Fall 2019; Spring, Summer, Fall 2020, Spring, Fall 2021
+  email: avabir@vt.edu
+  number_educ: 1
+  education1: (Major - Cognitive and Behavioral Neuroscience/Psychology)
+  education2: Graduate Student in Social Work at Columbia University
+  
+- name: Michelle Tran
+  photo: Tran.png
+  info: Undergraduate Research Assistant - Fall, Winter 2019; Spring, Summer, Fall 2020, Spring, Fall 2021
+  email: michellethuynh18@vt.edu
+  number_educ: 1
+  education1: (Major - Clinical Neuroscience; Minor - Psychology/Sociology)
+
+- name: Martha Drapac
+  photo: Drapac.png
+  info: Undergraduate Honors Credit - Fall 2020; Undergraduate Research Assistant - Spring, Fall 2021
+  email: drapacml@vt.edu
+  number_educ: 1
+  education1: (Major - Human Nutrition, Foods, and Exercise)
+  education2: Graduate Student in Occupational Therapy
+
+- name: Naheda Nassan
+  photo: Nassan.png
+  info: Undergraduate Research Assistant - Fall 2021
+  email: nahedan@vt.edu
+  number_educ: 1
+  education1: (Major - Biochemistry and Human Development, Minor - Chemistry, Creative Writing)
+
+- name: Julia Ricci
+  photo: Ricci.png
+  info: Undergraduate Research Assistant (Field Study) - Summer, Fall 2021
+  email: riccijulia@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development)
