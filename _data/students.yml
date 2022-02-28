@@ -4,7 +4,7 @@
   info: Undergraduate Research Assistant
   email: breanne7@vt.edu
   number_educ: 1
-  education1: Senior (Major - Biological Sciences, Minor - Chemistry/Disabilities Studies)
+  education1: Senior (Major - Biological Sciences, Minor - Chemistry, Disabilities Studies)
   
 - name: Jordan Teel
   photo: Teel.png
@@ -18,7 +18,7 @@
   info: Undergraduate Research Assistant
   email: yulliek@vt.edu
   number_educ: 1
-  education1: Junior (Major - Clinical Neuroscience and Human Development; Minor - Psychology and Disabilities Studies)
+  education1: Junior (Major - Clinical Neuroscience, Human Development; Minor - Psychology, Disabilities Studies)
   
 - name: Ava Morris
   photo: Morris.png
@@ -39,7 +39,14 @@
   info: Undergraduate Research Assistant
   email: juliap21@vt.edu
   number_educ: 1
-  education1: Freshmen (Major - Human Development and Psychology; Minor - Psychology and Disabilities Studies)
+  education1: Freshmen (Major - Human Development, Psychology; Minor - Psychology, Disabilities Studies)
+  
+- name: Ursilia Beckles
+  photo: Beckles.png
+  info: Undergraduate Research Assistant
+  email: laurazhang@vt.edu
+  number_educ: 1
+  education1: Junior (Major - English with Pre-Education option; Minor - Psychology, Language Sciences)
 
 - name: Luke Janoschka
   photo: Janoschka.png
