@@ -1,52 +1,18 @@
-- name: Taylor Covington
-  photo: Covington.png
-  info: Undergraduate Research Assistant
-  email: taylc99@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Human Development)
 
-- name: Ava Bir
-  photo: Bir.png
-  info: Undergraduate Research Assistant
-  email: avabir@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Cognitive and Behavioral Neuroscience/Psychology)
-
-- name: Michelle Tran
-  photo: Tran.png
-  info: Undergraduate Research Assistant
-  email: michellethuynh18@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Clinical Neuroscience; Minor - Psychology/Sociology)
-  
 - name: Breanne De Vera
   photo: DeVera.png
   info: Undergraduate Research Assistant
   email: breanne7@vt.edu
   number_educ: 1
-  education1: Junior (Major - Biological Sciences, Minor - Chemistry/Disabilities Studies)
+  education1: Senior (Major - Biological Sciences, Minor - Chemistry/Disabilities Studies)
   
-- name: Martha Drapac
-  photo: Drapac.png
-  info: Undergraduate Research Assistant (Undergraduate Honors Credit - Fall 2020)
-  email: drapacml@vt.edu
-  number_educ: 1
-  education1: Junior (Major - Human Nutrition, Foods, and Exercise)
-
 - name: Jordan Teel
   photo: Teel.png
   info: Undergraduate Research Assistant
   email: jteel@vt.edu
   number_educ: 1
-  education1: Sophomore (Major - Clinical Neuroscience, Minor - Spanish)
+  education1: Junior (Major - Clinical Neuroscience, Minor - Spanish)
   
-- name: Julia Ricci
-  photo: Ricci.png
-  info: Undergraduate Research Assistant
-  email: riccijulia@vt.edu
-  number_educ: 1
-  education1: Senior (Major - Human Development)
-
 - name: Yullie Kwak
   photo: Kwak.png
   info: Undergraduate Research Assistant
@@ -54,9 +20,31 @@
   number_educ: 1
   education1: Junior (Major - Clinical Neuroscience and Human Development; Minor - Psychology and Disabilities Studies)
   
-- name: Naheda Nassan
-  photo: Nassan.png
+- name: Ava Morris
+  photo: Morris.png
   info: Undergraduate Research Assistant
-  email: nahedan@vt.edu
+  email: avamorris23@vt.edu
   number_educ: 1
-  education1: Sophomore (Major - Biochemistry and Human Development, Minor - Chemistry, Creative Writing)
+  education1: Freshmen (Major - Human Development)
+  
+- name: Laura Zhang Zhang
+  photo: Zhang.png
+  info: Undergraduate Research Assistant
+  email: laurazhang@vt.edu
+  number_educ: 1
+  education1: Freshmen (Major - Human Development)
+  
+- name: Julia Place
+  photo: Place.png
+  info: Undergraduate Research Assistant
+  email: juliap21@vt.edu
+  number_educ: 1
+  education1: Freshmen (Major - Human Development and Psychology; Minor - Psychology and Disabilities Studies)
+
+- name: Luke Janoschka
+  photo: Janoschka.png
+  info: Undergraduate Research Assistant
+  email: lukejanoschka@vt.edu
+  number_educ: 1
+  education1: Junior (Major - Computer Science)
+  
