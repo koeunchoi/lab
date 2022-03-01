@@ -29,7 +29,7 @@ Thank you for your interest in our research projects! Please find more details a
 
 **Consent Form**: Check the consent form [here](http://kchoi.org/files/IRB-19-800_ConsentForm.pdf). *This study has received Virginia Tech IRB approval (19-800) and is part of the research projects under the direction of Drs. Koeun Choi, Benjamin D. Katz, Adrienne Holz Ivory, and Gota Morota at Virginia Tech*
 
-**Sign-up Link**: Sign up for a time slot [here](https://virginiatech.qualtrics.com/jfe/form/SV_0oiVYaOr9LsiU0S)
+**Sign-up Link**: Sign up for a time slot [here](https://virginiatech.qualtrics.com/jfe/form/SV_0oiVYaOr9LsiU0S).
 
 <!--(https://calendly.com/codeslab/adults-mobile-learning-research)-->
 
