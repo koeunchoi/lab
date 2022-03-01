@@ -47,17 +47,17 @@ This is a Virginia Tech research study (IRB #21-565).
 ******************************************************************************************************************************
 
 
---## Particiate in our in-person studies!
---******************************************************************************************************************************-->
+## Particiate in our in-person studies!
+--******************************************************************************************************************************
 
---### Adults’ Mobile Learning Research Opportunity
+### Adults’ Mobile Learning Research Opportunity
 
---![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 150px; float: right; border: 30px"}
-
-
---**Age**: 18-25 years
-
---**Click to learn more or participate at any time!**
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 150px; float: right; border: 30px"}
 
 
---******************************************************************************************************************************-->
+**Age**: 18-25 years
+
+**Click to learn more or participate at any time!**
+
+
+******************************************************************************************************************************
