@@ -52,7 +52,7 @@ This is a Virginia Tech research study (IRB #21-565).
 
 ### **Adults’ Mobile Learning Research Opportunity**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 150px; float: left; border: 30px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML4.png){: style="width: 200px; float: left; border: 50px"}
 
 **Age**: 18-25 years
 
