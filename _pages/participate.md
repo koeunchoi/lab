@@ -57,7 +57,7 @@ This is a Virginia Tech research study (IRB #21-565).
 
 **Age**: 18-25 years
 
-**Click to learn more or participate at any time!**
+**[Click to learn more or participate at any time!](http://kchoi.org/participate/mla/)**
 
 
 ******************************************************************************************************************************
