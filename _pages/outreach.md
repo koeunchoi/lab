@@ -10,17 +10,17 @@ permalink: /outreach/
 **2021**
 
 <a href="https://icat.vt.edu/science-festival.html">Climate change: Your voice is important (Robot musical theater)</a>
-<br>2021 Virginia Tech Science Festival<br>
+<br>2021 Virginia Tech Science Festival (in collaboration with the <a href="https://trim.ise.vt.edu/">tri-M Lab</a>) <br> 
 November 6
 
 <a href="https://icat.vt.edu/science-festival.html">Look, think, and play: Mobile eye tracking and math games </a>
-<br>2021 Virginia Tech Science Festival Meetup<br>
+<br>2021 Virginia Tech Science Festival Meetup (in collaboartion with the <a href="https://sites.google.com/view/vtlearninganddevelopmentlab">VT L&D Lab</a>) <br>
 October 25
 
 **2020**
 
 <a href="https://icat.vt.edu/science-festival/exhibitors/do-you-know-what-i-m-looking-at--tracking-eye-movements-during-m.html">Do you know what I'm looking at? Tracking eye movements during math games </a>
-<br>2020 Virginia Tech Science Festival<br>
+<br>2020 Virginia Tech Science Festival (in collaboartion with the <a href="https://sites.google.com/view/vtlearninganddevelopmentlab">VT L&D Lab</a>) <br>
 September 29, October 1, October 6 
 
 <a href="https://www.childrenandscreens.com/media/press-releases/schools-back-now-what-how-to-navigate-education-on-and-offline-during-the-global-pandemic/">School's back, now what? How to navigate education on and offline during the global pandemic</a>
