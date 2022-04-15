@@ -7,6 +7,16 @@ permalink: /outreach/
 
 # Outreach
 
+**2021**
+
+<a href="https://icat.vt.edu/science-festival.html">Climate change: Your voice is important (Robot musical theater)</a>
+<br>2021 Virginia Tech Science Festival<br>
+November 6
+
+<a href="https://icat.vt.edu/science-festival.html">Look, think, and play: Mobile eye tracking and math games </a>
+<br>2021 Virginia Tech Science Festival Meetup<br>
+October 25
+
 **2020**
 
 <a href="https://icat.vt.edu/science-festival/exhibitors/do-you-know-what-i-m-looking-at--tracking-eye-movements-during-m.html">Do you know what I'm looking at? Tracking eye movements during math games </a>
