@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 250px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 150px; float: right; border: 10px"}
 
 **Children’s active learning from interactive technology**
 
@@ -28,7 +28,7 @@ Collaborators:
 [Carla Macias](https://projects.iq.harvard.edu/ccdlab/people/carla-macias) (Psychology at Rutgers-Newark)
 [Martin Zettersten](https://mzettersten.github.io/) (Psychology at Princeton University)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 180px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 150px; float: right; border: 10px"}
 
 **Children's visual attention to technology**
 
@@ -42,7 +42,7 @@ Collaborators:
 [John Franchak](https://padlab.ucr.edu/) (Perception, Action, and Development (PAD) Lab at University of California, Riverside)
 [Molly Schlesinger](https://www.childcoglab.org/) (Childhood Cognition Lab (CCL) at University of California, Riverside)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 150px; float: right; border: 10px"}
 
 **Children's technology use in family and social contexts** 
 
