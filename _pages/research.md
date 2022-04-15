@@ -17,6 +17,10 @@ Our research aims to support children’s active learning with interactive techn
 Collaborators:
 [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering at VT)
 [Tae-Ho Lee](https://www.andlab.psyc.vt.edu/) (Affective Neurodynamics and Development (AND) Lab; Psychology at VT)
+[Chelsea Lyles](https://ceni.icat.vt.edu/about-us.html) (The Center for Educational Networks and Impacts (CENI) at VT)
+[Phyllis Newbill](https://ceni.icat.vt.edu/about-us.html) (The Center for Educational Networks and Impacts (CENI) at VT)
+[Ariana Wyatt](https://liberalarts.vt.edu/departments-and-schools/school-of-performing-arts/faculty/music-faculty/ariana-wyatt.html)(Performing Arts at VT)
+[Tanner Upthegrove](https://icat.vt.edu/about/tanner-upthegrove.html) (Institute for Creativity, Arts, and Technology at VT)
 [Elizabeth Bonawitz](https://www.gse.harvard.edu/faculty/elizabeth-bonawitz) (Computational Cognitive Development Lab; The Harvard Graduate School of Education)
 [Jinjing Jenny Wang](https://sites.rutgers.edu/jinjing-jenny-wang/) (Cognition and Learning Center (CALC) at Rutgers University–New Brunswick)
 [Caroline Hornburg](https://sites.google.com/view/vtlearninganddevelopmentlab) (Learning and Development Lab; Human Development and Family Science at VT)
