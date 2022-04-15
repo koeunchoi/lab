@@ -28,7 +28,7 @@ Collaborators:
 [Carla Macias](https://projects.iq.harvard.edu/ccdlab/people/carla-macias) (Psychology at Rutgers-Newark)
 [Martin Zettersten](https://mzettersten.github.io/) (Psychology at Princeton University)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 150px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML5.png){: style="width: 150px; float: right; border: 10px"}
 
 **Children's visual attention to technology**
 
