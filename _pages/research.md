@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 150px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 250px; float: right; border: 10px"}
 
 **Children’s active learning from interactive technology**
 
