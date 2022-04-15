@@ -368,8 +368,6 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
   
 <div class="row">
 <div class="col-sm-6 clearfix">
-<div class="col-sm-6 clearfix">
-<div class="col-sm-6 clearfix">
 {% for member in site.data.alumni_undergrad %}
 {{ member.name }}
 {% endfor %}
