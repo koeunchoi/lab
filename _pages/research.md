@@ -56,4 +56,4 @@ Collaborators:
 
 **Child Temperament and Early Screen Time** 
 
-These projects have been made possible in part by grants from Virginia Tech's Institute for Creativity, Arts, and Technology [(ICAT)](https://icat.vt.edu/), the Center for Humanities [(CH)(https://liberalarts.vt.edu/research-centers/center-for-humanities.html)], the Institute for Society, Culture and Environment ([ISCE](https://www.isce.vt.edu/)), and the College of Liberal Arts and Human Sciences (CLAHS) at Virginia Tech.
+These projects have been made possible in part by grants from Virginia Tech's Institute for Creativity, Arts, and Technology [(ICAT)](https://icat.vt.edu/), the Center for Humanities ([CH](https://liberalarts.vt.edu/research-centers/center-for-humanities.html)), the Institute for Society, Culture and Environment ([ISCE](https://www.isce.vt.edu/)), and the College of Liberal Arts and Human Sciences (CLAHS) at Virginia Tech.
