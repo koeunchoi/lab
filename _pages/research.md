@@ -23,7 +23,7 @@ Collaborators:
 [Neelma Bhatti](https://people.cs.vt.edu/neelma/) (Computer Science at VT)
 [Carla Macias](https://projects.iq.harvard.edu/ccdlab/people/carla-macias) (Psychology at Rutgers-Newark)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: right; border: 10px"}
 
 **Children's visual attention to technology**
 
