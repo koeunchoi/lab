@@ -42,7 +42,7 @@ Collaborators:
 [John Franchak](https://padlab.ucr.edu/) (Perception, Action, and Development (PAD) Lab at University of California, Riverside)
 [Molly Schlesinger](https://www.childcoglab.org/) (Childhood Cognition Lab (CCL) at University of California, Riverside)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 150px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
 
 **Children's technology use in family and social contexts** 
 
