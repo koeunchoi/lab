@@ -22,6 +22,7 @@ Collaborators:
 [Caroline Hornburg](https://sites.google.com/view/vtlearninganddevelopmentlab) (Learning and Development Lab; Human Development and Family Science at VT)
 [Neelma Bhatti](https://people.cs.vt.edu/neelma/) (Computer Science at VT)
 [Carla Macias](https://projects.iq.harvard.edu/ccdlab/people/carla-macias) (Psychology at Rutgers-Newark)
+[Martin Zettersten](https://mzettersten.github.io/) (Psychology at Princeton University)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 180px; float: right; border: 10px"}
 
