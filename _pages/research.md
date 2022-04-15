@@ -46,7 +46,7 @@ Collaborators:
 
 **Children's technology use in family and social contexts** 
 
-We study the extent to which children's technology use is influenced by family processes and social contexts such as parent-child interaction, parental stress, and family income. We found that parenting stress and family income are linked to children's thinking and use of technology. Currently, we are examinging 1) parent-child interaction in the presence of different technologies and 2) the role of parental beliefs and stress. 
+We study the extent to which children's technology use is influenced by family processes and social contexts such as parent-child interaction, parental stress, and family income. We found that parenting stress and family income are linked to children's thinking and use of technology. Currently, we are examinging 1) parent-child interaction in the presence of different technologies and 2) the role of parental beliefs and stress in children's technology use.
 
 Collaborators: 
 [Cynthia Smith](https://www.techkids.clahs.vt.edu/) (Children's Emotions Lab; Human Development and Family Science at VT)
