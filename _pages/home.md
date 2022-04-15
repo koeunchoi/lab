@@ -10,19 +10,13 @@ permalink: /
 
 We are a research group at the [Virginia Tech](https://vt.edu/). Our research focuses on the role of technology in young children’s cognitive development to better understand and support learning in early childhood. Technological innovations influence our everyday lives, including young children and their families. Our research examines how technology impacts children’s attention and learning, and the extent to which its impact is influenced by family processes and social contexts. 
 
-We employ multiple methods such as experiments, individual difference measures, and eye-tracking approaches to guide developmentally appropriate practices for technology integration. Our research has covered a diverse set of topics on children and emerging technologies, including attention and learning from mobile media, perception of and learning from robots, and child screen time and parenting. 
+We employ multiple methods such as experiments, individual difference measures, and eye-tracking approaches to guide developmentally appropriate practices for technology integration. Our research has covered a diverse set of topics on children and emerging technologies, including attention and learning from mobile media, perception of and learning from robots, and child screen time and parenting (see [Research](http://kchoi.org/research/)).
 
 We aim to translate our research into practice and serves to inform parents, educators, producers, designers, health professionals, and policy makers on how to design and use technological tools to support young children’s cognitive development.
 
 <!--<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png" width="50%">
 </figure>-->
-
-We have focused on four aspects including (1) examining the impact of technology on learning, (2) characterizing individual and contextual differences that moderate or mediate technology effects, (3) identifying cognitive mechanisms underlying technology-based learning, and (4) connecting computational modeling, data analytics, and digital technology to describe and predict this learning.
-
-To tackle these questions, we employ multiple methods such as experiments, individual difference measures, eye-tracking, and computational and machine learning approaches.
-
-Our current research focuses on children’s curiosity, exploration, and information seeking in the context of digital technology (see [Research](http://kchoi.org/research/)).
 
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
