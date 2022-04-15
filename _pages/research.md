@@ -51,3 +51,14 @@ Collaborators:
 **Support** 
 
 These projects have been made possible in part by grants from Virginia Tech's [Institute for Creativity, Arts, and Technology (ICAT)](https://icat.vt.edu/), the [Center for Humanities (CH)](https://liberalarts.vt.edu/research-centers/center-for-humanities.html), the [Institute for Society, Culture and Environment (ISCE)](https://www.isce.vt.edu/), and the College of Liberal Arts and Human Sciences (CLAHS) at Virginia Tech.
+
+
+<figure class="fourth">
+  <a href="https://icat.vt.edu/" target="_blank">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICAT.png" style="width: 310px">
+  </a>
+  <a href="https://liberalarts.vt.edu/" target="_blank">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 150px">
+  </a>
+</figure>
+
