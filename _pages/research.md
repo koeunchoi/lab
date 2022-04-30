@@ -72,5 +72,8 @@ These projects have been made possible in part by grants from Virginia Tech's [I
     <a href="https://liberalarts.vt.edu/" target="_blank">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 150px">
   </a>
+  <a href="https://www.isce.vt.edu/" target="_blank">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ISCE.png" style="width: 150px">
+  </a>
 </figure>
 
