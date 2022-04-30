@@ -64,16 +64,16 @@ These projects have been made possible in part by grants from Virginia Tech's [I
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ICAT.png" style="width: 310px">
   </a>
   <a href="https://hci.icat.vt.edu/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3uz4iZO5jWethg276YAGatwg1BChT7j2fJdB4vFm42tdFTXG1NIdUaArWnEALw_wcB" target="_blank">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CHCI.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CHCI.png" style="width: 200px">
   </a>
     <a href="https://liberalarts.vt.edu/research-centers/center-for-humanities.html" target="_blank">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CfH.png" style="width: 150px">
   </a>
     <a href="https://liberalarts.vt.edu/" target="_blank">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CLAHS.png" style="width: 310px">
   </a>
   <a href="https://www.isce.vt.edu/" target="_blank">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ISCE.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ISCE.png" style="width: 310px">
   </a>
 </figure>
 
