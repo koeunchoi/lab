@@ -41,6 +41,21 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
+# 2022
+
+2022 Dennis Dean Undergraduate Research and Creative Scholarship Conference - April 29
+(Ursi Beckles, Yullie Kwak, Julia Place, Luke Janoschka, Luara Zhang, Jordan Teel, Shuqi Yu, Jisun Kim, Koeun Choi)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2022_0429.png" width="70%">
+</figure>
+
+2022 Child-Robot Theater Program at CDCLR - 4/27/22
+(Robots: Pleo, Aibo, Pepper, Milo, Nao, Quincy; Researchers: Shuqi Yu, Ava Morris, Luke Janoschka, Koeun Choi, Myounghoon (Philart) Jeon, Sasha Holt, Laura Zhang, Jisun Kim, Hamda Almahri, Jia Dong, Devanshu Vajir, Not in the picture: Jordan Teel, Yullie Kwak, Julia Place, Breanne De Vera, Ursi Beckles)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CRT_2022_0427.png" width="70%">
+</figure>
+
+
 # 2021
 2021 Child-Robot Theater Afterschool Program Research Project - 9/22/21, 9/29/21
 (Robots: Pleo, Aibo, Pepper, Milo, Nao, Quincy; Researchers: Yeaji Lee, Irfath Akter, Jia Dong, Koeun Choi, Shuqi Yu, Martha Drapac, Taylor Covington, Jisun Kim, Chelsea Lyles, Myounghoon (Philart) Jeon, Devanshu Vajir, Breanne De Vera, Michelle Tran)
