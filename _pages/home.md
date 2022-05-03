@@ -31,7 +31,7 @@ We aim to translate our research into practice and serves to inform parents, edu
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_1202.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2022_0429.png" alt="Slide 1" />
         </div>        
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2019_1213.png" alt="Slide 2" />
