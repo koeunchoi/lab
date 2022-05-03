@@ -1,3 +1,12 @@
+- title: "The impact of touchscreen interactivity on U.S. toddlers’ selective attention and learning from digital media"
+  image: Pub.png
+#  description: 
+  authors: Kirkorian, H. L., Choi, K., Etta, R., & Yoo, S. H.
+  link: 
+    url: https://doi.org/10.1080/17482798.2021.1944888
+    display: Journal of Children and Media, 16(2), 188-204 (2022)
+  highlight: 0
+  
 - title: "Robot musical theater for climate change education"
   image: Pub.png
 #  description: 
@@ -13,7 +22,7 @@
   authors: Choi, K.
   link: 
     url: http://doi.org/10.1080/17482798.2021.1978675
-    display: Journal of Children and Media, 14(4) (2021)
+    display: Journal of Children and Media, 15(4), 597-603 (2021)
   highlight: 1
   
 - title: "Preschoolers’ beliefs about media technologies: The role of family income"
@@ -32,15 +41,6 @@
   link: 
     url: https://doi.org/10.1002/hbe2.273
     display: Human Behavior and Emerging Technologies, 1-16 (2021)
-  highlight: 0
-  
-- title: "The impact of touchscreen interactivity on U.S. toddlers’ selective attention and learning from digital media"
-  image: Pub.png
-#  description: 
-  authors: Kirkorian, H. L., Choi, K., Etta, R., & Yoo, S. H.
-  link: 
-    url: https://doi.org/10.1080/17482798.2021.1944888
-    display: Journal of Children and Media (2021)
   highlight: 0
   
 - title: "Why do parents use screen media with toddlers? The role of child temperament and parenting stress in early screen use"
