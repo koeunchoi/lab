@@ -8,6 +8,7 @@ permalink: /publications/
 
 # Publications
 
+<!--
 ## Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=UY9qarUAAAAJ&hl=en))
@@ -49,7 +50,7 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
+-->
 
 ## Full List
 
