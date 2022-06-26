@@ -10,7 +10,7 @@ permalink: /research/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 250px; float: right; border: 10px"}
 
-**Children’s active learning with interactive technology**
+**Children’s active learning from interactive technology**
 
 Our research aims to support children’s active learning with interactive technologies, including touchscreen tablets, video chats, voice assistants, and social robots. We found that active interactions with technological sources have the potential to promote children's exploration, information seeking, and learning. In our current studies, we are examinging 1) child-adult joint play with interactive touchscreens and videoconferencing devices, 2) children's perception, curiosity, and learning from social robots, 3) the role of question asking in video chat and voice assistant systems, and 4) children's beliefs about various technologies.
 
