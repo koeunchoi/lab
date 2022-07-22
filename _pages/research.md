@@ -10,9 +10,9 @@ permalink: /research/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_HR1.png){: style="width: 250px; float: right; border: 10px"}
 
-**Children’s active learning from interactive technology**
+**Children’s active learning with interactive technology**
 
-Our research aims to support children’s active learning with interactive technologies, including touchscreen tablets, video chats, voice assistants, and social robots. We found that active interactions with technological sources have the potential to promote children's exploration, information seeking, and learning. In our current studies, we are examinging 1) child-adult joint play with interactive touchscreens and videoconferencing devices, 2) children's perception, curiosity, and learning from social robots, 3) the role of question asking in video chat and voice assistant systems, and 4) children's beliefs about various technologies.
+Our research aims to support children's active learning with interactive technologies, including touchscreen tablets, video chats, voice assistants, and social robots. We found that active interactions with technological sources have the potential to promote children's exploration, information seeking, and learning. In our current studies, we are examining 1) child-adult joint play with interactive touchscreens and videoconferencing devices, 2) children's perception, curiosity, and learning from social robots, 3) the role of question asking in video chat and voice assistant systems, and 4) children's beliefs about various technologies.
 
 Collaborators:
 [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering at VT)
@@ -32,7 +32,7 @@ Collaborators:
 
 **Children's visual attention to technology**
 
-We examines eye movements during complex and dynamic video viewing as a way to understand how learners process information during viewing. We found that children’s attention is driven by the presence and relevance of interactive features in media. Currently, we are examinging 1) the role of executive functioning (e.g., working memory, inhibitory control) in learners’ visual attention and comprehension of mobile media content and 2) how the characteristics of media characters guide children's visual attention and learning.
+We examine eye movements during complex and dynamic video viewing as a way to understand how learners process information during viewing. We found that children's attention is driven by the presence and relevance of interactive features in media. Currently, we are examining 1) the role of executive functioning (e.g., working memory, inhibitory control) in learners' visual attention and comprehension of mobile media content and 2) how the characteristics of media characters guide children's visual attention and learning.
 
 Collaborators: 
 [Benjamin D. Katz](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/faculty/ben-katz.html) (Human Development and Family Science at VT)
@@ -46,7 +46,7 @@ Collaborators:
 
 **Children's technology use in family and social contexts** 
 
-We study the extent to which children's technology use is influenced by family processes and social contexts such as parent-child interaction, parental stress, and family income. We found that parenting stress and family income are linked to children's thinking and use of technology. Currently, we are examinging 1) parent-child interaction in the presence of different technologies and 2) the role of parental beliefs and stress in children's technology use.
+We study the extent to which children's technology use is influenced by family processes and social contexts such as parent-child interaction, parental stress, and family income. We found that parenting stress and family income are linked to children's thinking and use of technology. Currently, we are examining 1) parent-child interaction in the presence of different technologies and 2) the role of parental beliefs and stress in children's technology use.
 
 Collaborators: 
 [Cynthia Smith](https://www.techkids.clahs.vt.edu/) (Children's Emotions Lab; Human Development and Family Science at VT)
