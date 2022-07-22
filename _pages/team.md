@@ -366,21 +366,21 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 ## Lab Alumni - Undergraduate Students 
 [Click here for the full list of our undergraduate alumni *](http://kchoi.org/team/former/)
  
-<div class="container">
-<div class="row">
+Ashleigh Bedwell, Sara Belay, Rhea Bhatia, Eva Grumbine, Valerie Salmon, Ally Copeland, Caroline Kammer, Molly Simek, Bethany Grocock, Katie Johnson, Eman Ayaz, Anvitha Metpally, Ally Copeland, Taylor Covington, Ava Bir, Michelle Tran, Martha Drapac, Naheda Nassan, Julia Ricci
+  
+<!--<div class="row">
 <div class="col-sm-3 clearfix">
 {% for member in site.data.alumni_undergrad %}
 {{ member.name }}
 {% endfor %}
-</div>
- </div>
+</div>-->
   
 <!--<div class="row">  
-<!--<div class="col-sm-4 clearfix">-->
-<!--<h4>Undergraduate Students</h4>-->
-<!--{% for member in site.data.alumni_undergrad %}-->
-<!--{{ member.name }}-->
-<!--{% endfor %}-->
-<!--</div>-->
+<div class="col-sm-4 clearfix">
+<h4>Undergraduate Students</h4>
+{% for member in site.data.alumni_undergrad %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 <!--</div>-->
