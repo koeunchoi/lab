@@ -1,57 +1,119 @@
 
-- name: Breanne De Vera
-  photo: DeVera.png
-  info: Undergraduate Research Assistant
-  email: breanne7@vt.edu
-  number_educ: 1
-  education1: Senior (Major - Biological Sciences, Minor - Chemistry, Disabilities Studies)
-  
 - name: Jordan Teel
   photo: Teel.png
   info: Undergraduate Research Assistant
   email: jteel@vt.edu
   number_educ: 1
-  education1: Junior (Major - Clinical Neuroscience, Minor - Spanish)
+  education1: Fall 2021-Present, Senior (Major - Clinical Neuroscience, Minor - Spanish)
   
 - name: Yullie Kwak
   photo: Kwak.png
   info: Undergraduate Research Assistant
   email: yulliek@vt.edu
   number_educ: 1
-  education1: Junior (Major - Clinical Neuroscience, Human Development; Minor - Psychology, Disabilities Studies)
-  
-- name: Ava Morris
-  photo: Morris.png
-  info: Undergraduate Research Assistant
-  email: avamorris23@vt.edu
-  number_educ: 1
-  education1: Freshmen (Major - Human Development)
+  education1: Fall 2021, Spring, Summer 2022-Present, Senior (Major - Clinical Neuroscience, Human Development; Minor - Psychology, Disabilities Studies)
   
 - name: Laura Zhang Zhang
   photo: Zhang.png
   info: Undergraduate Research Assistant
   email: laurazhang@vt.edu
   number_educ: 1
-  education1: Freshmen (Major - Human Development)
-  
-- name: Julia Place
-  photo: Place.png
-  info: Undergraduate Research Assistant
-  email: juliap21@vt.edu
-  number_educ: 1
-  education1: Freshmen (Major - Human Development, Psychology; Minor - Disabilities Studies)
-  
+  education1: Spring, Summer 2022-Present, Senior (Major - Human Development)
+ 
 - name: Ursilia Beckles
   photo: Beckles.png
   info: Undergraduate Research Assistant
   email: ubeckles@vt.edu
   number_educ: 1
-  education1: Junior (Major - English with Pre-Education option; Minor - Psychology, Language Sciences)
+  education1: Spring 2022-Present, Senior (Major - English with Pre-Education option; Minor - Honors Minor)
 
 - name: Luke Janoschka
   photo: Janoschka.png
-  info: Undergraduate Research Assistant
-  email: lukejanoschka@vt.edu
+  info: Undergraduate Research Assistant (Developer)
+  email: lukejanoschka@vt.edu'
   number_educ: 1
-  education1: Junior (Major - Computer Science)
+  education1: Spring 2022-Present, Senior (Major - Computer Science)
+   
+- name: Sebastian Ballesteros
+  photo: Ballesteros.png
+  info: Undergraduate Research Assistant (Field Study)
+  email: sebastianb@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Junior (Major - Human Development)
   
+- name: Alina Tseng
+  photo: Tseng.png
+  info: Undergraduate Research Assistant
+  email: alinawt@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Senior (Major - Human Development)
+  
+- name: Maggie Ashley
+  photo: Ashley.png
+  info: Undergraduate Research Assistant
+  email: maggieashley@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Junior (Major - Human Development)
+  
+- name: Zainab Shamim
+  photo: Shamim.png
+  info: Undergraduate Research Assistant
+  email: zainab@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Senior (Major - Human Development)
+  
+- name: Sraavya Gudavalli
+  photo: Gudavalli.png
+  info: Undergraduate Research Assistant (Developer)
+  email: sraavya@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Senior (Major - ECE)
+ 
+- name: Rahul Bhamidipati
+  photo: Bhamidipati.png
+  info: Undergraduate Research Assistant (Developer)
+  email: rahulnb@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Sophomore (Major - ECE)
+  
+- name: Yilin Liu
+  photo: Liu.png
+  info: Undergraduate Research Assistant (Developer)
+  email: liupp@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Senior (Major - ECE)
+  
+- name: Aniruddh Chauhan
+  photo: Chauhan.png
+  info: Undergraduate Research Assistant (Developer)
+  email: aniruddh2002@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Junior (Major - ECE)
+  
+- name: Jacob Miller
+  photo: Miller.png
+  info: Undergraduate Research Assistant (Developer)
+  email: jacobtm24@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Junior (Major - ECE)
+  
+- name: Richard Martinez
+  photo: Martinez.png
+  info: Undergraduate Research Assistant (Developer)
+  email: rmartinez21@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Sophomore (Major - ECE)
+  
+- name: Mason Young
+  photo: Young.png
+  info: Undergraduate Research Assistant (Developer)
+  email: masonyoung@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Senior (Major - Computer Engineering focusing on Software Systems and Networking and Cybersecurity)
+  
+- name: Aaryan Mehra
+  photo: Mehra.png
+  info: Undergraduate Research Assistant (Developer)
+  email: aaryanmehra2001@vt.edu
+  number_educ: 1
+  education1: Fall 2022-Present, Senior (Major - Machine Learning, Minor - Computer Science)
