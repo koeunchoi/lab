@@ -161,3 +161,31 @@
   email: ubeckles@vt.edu
   number_educ: 1
   education1: Spring 2022 - Fall 2022 (Major - English with Pre-Education option; Minor - Honors Minor)
+  
+- name: Luke Janoschka
+  photo: Janoschka.png
+  info: Undergraduate Research Assistant (Developer)
+  email: lukejanoschka@vt.edu
+  number_educ: 1
+  education1: Spring 2022 - Fall 2022 (Major - Computer Science)
+   
+- name: Sraavya Gudavalli
+  photo: Gudavalli.png
+  info: Undergraduate Research Assistant (Developer)
+  email: sraavya@vt.edu
+  number_educ: 1
+  education1: Fall 2022 (Major - Computer Science; Minor - Human Computer Interaction)
+ 
+- name: Rahul Bhamidipati
+  photo: Bhamidipati.png
+  info: Undergraduate Research Assistant (Developer)
+  email: rahulnb@vt.edu
+  number_educ: 1
+  education1: Fall 2022(Major - Computer Engineering)
+  
+- name: Richard Martinez
+  photo: Martinez.png
+  info: Undergraduate Research Assistant (Developer)
+  email: rmartinez21@vt.edu
+  number_educ: 1
+  education1: Fall 2022 (Major - Computer Engineering; Minors - Computer Science, Mathematics)
