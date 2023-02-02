@@ -12,7 +12,7 @@ We are a research group at the [Virginia Tech](https://vt.edu/). Our research fo
 
 Technological innovations influence our everyday lives, including young children and their families. Our research examines how technology impacts children’s attention and learning, and the extent to which its impact is influenced by family processes and social contexts. 
 
-We employ multiple methods such as experiments, individual difference measures, and eye-tracking approaches to guide developmentally appropriate practices for technology integration. Our research covers a diverse set of topics on children and emerging technologies, including **children's active learning from interactive technology**, **children's visual attentinon to technology**, and **parent-child interaction involving technology** (see [Research](http://kchoi.org/research/)).
+We employ multiple methods such as experiments, individual difference measures, and eye-tracking approaches to guide developmentally appropriate practices for technology integration. Our research covers a diverse set of topics on children and emerging technologies, including **children's active learning from interactive technology**, **children's visual attention to technology**, and **parent-child interaction involving technology** (see [Research](http://kchoi.org/research/)).
 
 We aim to translate our research into practice and serves to inform parents, educators, producers, designers, health professionals, and policy makers on how to design and use technological tools to support young children’s cognitive development.
 
