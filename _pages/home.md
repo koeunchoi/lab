@@ -8,7 +8,7 @@ permalink: /
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider/Logo_CoDeSLab1.png){: style="width: 300px; float: right; border: 1px"}
 
-We are a research group at the [Virginia Tech](https://vt.edu/). Our research focuses on the role of **technology** in **young children’s cognitive development** to better understand and support **learning** in **early childhood**. 
+We are a research group at [Virginia Tech](https://vt.edu/). Our research focuses on the role of **technology** in **young children’s cognitive development** to better understand and support **learning** in **early childhood**. 
 
 Technological innovations influence our everyday lives, including young children and their families. Our research examines how technology impacts children’s attention and learning, and the extent to which its impact is influenced by family processes and social contexts. 
 
