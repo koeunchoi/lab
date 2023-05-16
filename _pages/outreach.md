@@ -9,6 +9,13 @@ permalink: /outreach/
 
 **2021**
 
+<a href="https://icat.vt.edu/science-festival.html">Hang Out with Robots</a>
+<br>2022 Virginia Tech Science Festival (in collaboration with the <a href="https://trim.ise.vt.edu/">tri-M Lab</a>) <br> 
+November 12
+
+
+**2021**
+
 <a href="https://icat.vt.edu/science-festival.html">Climate change: Your voice is important (Robot musical theater)</a>
 <br>2021 Virginia Tech Science Festival (in collaboration with the <a href="https://trim.ise.vt.edu/">tri-M Lab</a>) <br> 
 November 6
