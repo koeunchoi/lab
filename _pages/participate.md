@@ -23,24 +23,23 @@ Thank you for your interest in our research projects! We are currently running t
 
 ******************************************************************************************************************************
 
-### **Let’s read a book together!**
+### **How do parents and children read with conversational AI agents?**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_SB1.png){: style="width: 250px; float: left; border: 200px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_Talemate1.png){: style="width: 200px; float: left; border: 50px"}
 
-**Who?** 3 - 5 year olds who live in the U.S. and speak English and their parents
+**Who**: Who: Children ages 3 to 6 years and their parents who live in the U.S and speak English.
 
-**Time**: About 40 minutes 
+**Time**: About 75 mintues (two 30-minute Zoom sessions + one 15-min online survey)
 
-**Do children learn new words while reading a book over Zoom?** 
-- Children will read a storybook with a researcher over Zoom and answer questions for 30 minutes. 
-- Parents will complete an online survey about their child (background, media use, development), which will take 10 minutes.
-- $10 USD Amazon gift card upon the completion of both the Zoom session and the online survey.
+**Where**: Zoom platform.
 
-**Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisunk@vt.edu](jisunk@vt.edu)
+**Study Description**: Children will read a storybook with their parents by using the TaleMate platform, a system that enhances reading by using AI. The study includes two 30-minute Zoom sessions. During each Zoom session, parents and children will read a book and answer questions. Parents will also complete a 15-minute online survey about their child’s background, media use, and reading habits. The Zoom session will be audio/video recorded for research purposes. 
 
-This is a Virginia Tech research study (IRB #21-565).
+**Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) 
 
-**[Click to learn more or participate at any time!](http://kchoi.org/participate/sb/)**
+The Virginia Tech Institutional Review Board has approved this experiment for human subjects research (IRB # 23-748).
+
+**[Click to learn more or participate at any time!](https://echolab.cs.vt.edu/2023/08/28/talemate-a-reading-platform-for-parents-and-children/)**
 
 
 ******************************************************************************************************************************
@@ -68,3 +67,13 @@ This is a Virginia Tech research study (IRB #19-800).
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+## **Completed Projects**
+
+******************************************************************************************************************************
+
+**[Synchronous Video Storybook Reading](http://kchoi.org/participate/sb/)**
