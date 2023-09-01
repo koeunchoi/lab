@@ -25,7 +25,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 ### **How do parents and children read with conversational AI agents?**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_Talemate1.png){: style="width: 200px; float: left; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TaleMate1.png){: style="width: 200px; float: left; border: 50px"}
 
 **Who**: Children ages 3 to 6 years and their parents who live in the U.S and speak English.
 
