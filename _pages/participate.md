@@ -27,9 +27,9 @@ Thank you for your interest in our research projects! We are currently running t
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_Talemate1.png){: style="width: 200px; float: left; border: 50px"}
 
-**Who**: Who: Children ages 3 to 6 years and their parents who live in the U.S and speak English.
+**Who**: Children ages 3 to 6 years and their parents who live in the U.S and speak English.
 
-**Time**: About 75 mintues (two 30-minute Zoom sessions + one 15-min online survey)
+**Time**: About 75 mintues (two 30-minute Zoom sessions + one 15-min online survey).
 
 **Where**: Zoom platform.
 
