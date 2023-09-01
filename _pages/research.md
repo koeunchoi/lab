@@ -12,7 +12,7 @@ permalink: /research/
 
 **Children’s active learning with interactive technology**
 
-Our research aims to support children's active learning with interactive technologies, including touchscreen tablets, video chats, voice assistants, and social robots. We found that active interactions with technological sources have the potential to promote children's exploration, information seeking, and learning. In our current studies, we are examining 1) child-adult joint play with interactive touchscreens and videoconferencing devices, 2) children's perception, curiosity, and learning from social robots, 3) the role of question asking in video chat and voice assistant systems, and 4) children's beliefs about various technologies.
+Our research aims to support children's active learning with interactive technologies, including touchscreen tablets, video chats, voice assistants, and social robots. We found that active interactions with technological sources have the potential to promote children's exploration, information seeking, and learning. In our current studies, we are examining 1) child-adult joint play with interactive touchscreens and videoconferencing devices, 2) children's perception, curiosity, and learning from social robots, 3) the role of question asking in video chat and AI voice assistant systems, and 4) children's beliefs about various technologies.
 
 Collaborators:
 [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering at VT)
@@ -28,7 +28,18 @@ Collaborators:
 [Carla Macias](https://projects.iq.harvard.edu/ccdlab/people/carla-macias) (Psychology at Rutgers-Newark)
 [Martin Zettersten](https://mzettersten.github.io/) (Psychology at Princeton University)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML5.png){: style="width: 250px; float: right; border: 10px"}
+Dong, J., Choi, K., Yu, S., Lee, Y., Kim, J., Vajir, D., Hains, C., Newbill, P, Wyatt, A., Upthegrove, T. & Jeon, M. (2023). A child-robot musical theater afterschool program for promoting STEAM education: A case study and guidelines. International Journal of Human–Computer Interaction, 1-17. https://doi.org/10.1080/10447318.2023.2189814
+
+Lee, Y., Wyatt, A., Dong, J., Upthegrove, T., Hale, B., Lyles, C. H., *Choi, K., Kim, J., Yu, S., Vajir, D., Newbill, P., & Jeon, M. (2022). Robot musical theater for climate change education. Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction. Online. https://dl.acm.org/doi/pdf/10.5555/3523760.3523895
+
+Choi, K. (2021). Sesame Street: Beyond 50. Journal of Children and Media, 15 (4), 597-603. https://doi.org/10.1080/17482798.2021.1978675
+
+Choi, K., Kirkorian, H. L., & Pempek, T. A. (2021). Touchscreens for whom? Working memory and age moderate the impact of contingency on toddlers’ transfer from video. Frontiers in Psychology, 12, 621372. https://doi.org/10.3389/fpsyg.2021.621372
+
+Choi, K., Kirkorian, H. L., & Pempek, T. A. (2018). Understanding the transfer deficit: Contextual mismatch, proactive interference, and working memory affect toddlers’ video-based transfer. Child Development, 89 (4), 1378-1393. https://doi.org/10.1111/cdev.12810
+
+Choi, K., & Kirkorian, H. L. (2016). Touch or watch to learn? Toddlers’ object retrieval using contingent and noncontingent video. Psychological Science, 27 (5), 726-736.
+https://doi.org/10.1177/0956797616636110
 
 **Children's visual attention to technology**
 
@@ -42,6 +53,10 @@ Collaborators:
 [John Franchak](https://padlab.ucr.edu/) (Perception, Action, and Development (PAD) Lab at University of California, Riverside)
 [Molly Schlesinger](https://www.childcoglab.org/) (Childhood Cognition Lab (CCL) at University of California, Riverside)
 
+Choi, K., Schlesinger, M. A., Franchak, J. M, & Richert, R. A. (2022). Preschoolers’ attention to and learning from on-screen characters that vary by effort and efficiency: An eye-tracking study. Frontiers in Psychology, 13, 1011172. https://doi.org/10.3389/fpsyg.2022.1011172
+
+Kirkorian, H. L., Choi, K., Etta, R. A, & Yoo, S. H. (2022). The impact of touchscreen interactivity on U.S. toddlers’ selective attention and learning from digital media. Journal of Children and Media, 16 (2), 188-204. https://doi.org/10.1080/17482798.2021.1944888
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
 
 **Children's technology use in family and social contexts** 
@@ -53,6 +68,10 @@ Collaborators:
 [Eunkyung Lucy Shin](https://fbri.vtc.vt.edu/people-directory/postdoctoral-associates/shin.html) (Fralin Biomedical Research Institute at VTC)
 [Diana Devine](https://www.techkids.clahs.vt.edu/) (Children's Emotions Lab; Human Development and Family Science at VT)
 [Candy Beers](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Candy-Beers.html) (Human Development and Family Science at VT)
+
+Shin, E., Choi, K., Resor, J., & Smith, C. L. (2021). Why do parents use screen media with toddlers? The role of child temperament and parenting stress in early screen use. Infant Behavior and Development, 64, 101595. https://doi.org/10.1016/j.infbeh.2021.101595
+
+Macias, C., & Choi, K. (2021). Preschoolers’ beliefs about media technologies: The role of family income. Human Behavior and Emerging Technologies, 1-13. https://doi.org/10.1002/hbe2.278
 
 **Support** 
 
