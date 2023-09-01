@@ -7,7 +7,7 @@ permalink: /outreach/
 
 # Outreach
 
-**2021**
+**2022**
 
 <a href="https://icat.vt.edu/science-festival.html">Hang Out with Robots</a>
 <br>2022 Virginia Tech Science Festival (in collaboration with the <a href="https://trim.ise.vt.edu/">tri-M Lab</a>) <br> 
