@@ -29,11 +29,12 @@ Collaborators:
 [Martin Zettersten](https://mzettersten.github.io/) (Psychology at Princeton University)
 
 - Dong, J., Choi, K., Yu, S., Lee, Y., Kim, J., Vajir, D., Hains, C., Newbill, P, Wyatt, A., Upthegrove, T. & Jeon, M. (2023). A child-robot musical theater afterschool program for promoting STEAM education: A case study and guidelines. International Journal of Human–Computer Interaction, 1-17. [https://doi.org/10.1080/10447318.2023.2189814](https://doi.org/10.1080/10447318.2023.2189814)
-- Choi, K. (2021). Sesame Street: Beyond 50. Journal of Children and Media, 15 (4), 597-603. [https://doi.org/10.1080/17482798.2021.1978675](https://doi.org/10.1080/17482798.2021.1978675)
 - Choi, K., Kirkorian, H. L., & Pempek, T. A. (2021). Touchscreens for whom? Working memory and age moderate the impact of contingency on toddlers’ transfer from video. Frontiers in Psychology, 12, 621372. [https://doi.org/10.3389/fpsyg.2021.621372[https://doi.org/10.3389/fpsyg.2021.621372](https://doi.org/10.3389/fpsyg.2021.621372[https://doi.org/10.3389/fpsyg.2021.621372)
 - Choi, K., Kirkorian, H. L., & Pempek, T. A. (2018). Understanding the transfer deficit: Contextual mismatch, proactive interference, and working memory affect toddlers’ video-based transfer. Child Development, 89 (4), 1378-1393. [https://doi.org/10.1111/cdev.12810](https://doi.org/10.1111/cdev.12810)
 - Choi, K., & Kirkorian, H. L. (2016). Touch or watch to learn? Toddlers’ object retrieval using contingent and noncontingent video. Psychological Science, 27 (5), 726-736.
 [https://doi.org/10.1177/0956797616636110](https://doi.org/10.1177/0956797616636110)
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: right; border: 10px"}
 
 **Children's visual attention to technology**
 
