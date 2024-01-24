@@ -14,14 +14,6 @@
   number_educ: 1
   education1: Ph.D. Student (Advisor - Dr. Carolyn Shivers; Co-Chair - Dr. Koeun Choi)
 
-- name: Maddie Toman
-  photo: Toman.png
-  info: Graduate Research Assistant
-  email: maddie99@vt.edu
-  www: 
-  number_educ: 1
-  education1: Ph.D. Student (Advisor - Dr. Rose Wesche)
-
 - name: Mahmut Sami Gürdal
   photo: Gurdal.png
   info: Graduate Student
@@ -29,3 +21,11 @@
   www: 
   number_educ: 1
   education1: Ph.D. Student (Temporary Advisor - Dr. Koeun Choi)
+
+- name: Meryem Şeyda Özcan
+  photo: Ozcan.png
+  info: Visiting Graduate Research 
+  email: mzayim17@ku.edu.tr
+  www: 
+  number_educ: 1
+  education1: Ph.D. Student
