@@ -19,27 +19,27 @@ Thank you for your interest in our research projects! We are currently running t
 
 <!--<li>..</li>-->
 
-## **Participate in our online studies**!
+## **Participate in our in-person studies**!
 
 ******************************************************************************************************************************
 
-### **How do parents and children read with conversational AI agents?**
+### **Let's Read with AI Reading Partner! (Home Visit)**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TaleMate1.png){: style="width: 200px; float: left; border: 50px"}
 
-**Who**: Children ages 3 to 6 years and their parents who live in the U.S and speak English.
+**Who**: Children ages 3 to 5 years who speak English and has not yet started kindergartens and their parents.
 
-**Time**: About 75 mintues (two 30-minute Zoom sessions + one 15-min online survey).
+**What**: 5 home-visit sessions (20 min each)
+- During two sessions, children will play math and word games.
+- During three sessions, they will read a storybook with AI smart speaker
+- Parents will also complete a 10-minute online survey about their child’s background and media use.
 
-**Where**: Zoom platform.
+**How**: Click the link below to learn more about our study and fill out the **permission and consent forms**:
+[Click to learn more](link)
 
-**Study Description**: Children will read a storybook with their parents by using the TaleMate platform, a system that enhances reading by using AI. The study includes two 30-minute Zoom sessions. During each Zoom session, parents and children will read a book and answer questions. Parents will also complete a 15-minute online survey about their child’s background, media use, and reading habits. The Zoom session will be audio/video recorded for research purposes. 
+**Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisun@vt.edu](jisun@vt.edu) 
 
-**Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) 
-
-The Virginia Tech Institutional Review Board has approved this experiment for human subjects research (IRB # 23-748).
-
-**[Click to learn more or participate at any time!](https://echolab.cs.vt.edu/2023/08/28/talemate-a-reading-platform-for-parents-and-children/)**
+The Virginia Tech Institutional Review Board has approved this experiment for human subjects research (IRB # 22-357).
 
 
 ******************************************************************************************************************************
