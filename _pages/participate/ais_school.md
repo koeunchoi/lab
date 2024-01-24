@@ -3,7 +3,7 @@ title: "Choi Lab - Participate"
 layout: textlay
 excerpt: "Participate"
 sitemap: false
-permalink: /participate/ais_home/
+permalink: /participate/ais_school/
 ---
 
 ******************************************************************************************************************************
