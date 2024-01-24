@@ -33,9 +33,16 @@
   number_educ: 1
   education1: Junior (Major - Psychology)
 
+- name: Alia Konold
+  photo: Konold.png
+  info: Undergraduate Research Assistant - Fall 2023 - Present
+  email: akonold@vt.edu
+  number_educ: 1
+  education1: Sophomore (Major - Biochemistry; Minor - Disability Studies)  
+
 - name: Junwoo Seo
   photo: Seo.png
   info: Undergraduate Research Assistant - Spring 2024 - Present
   email: junwoo@vt.edu
   number_educ: 1
-  education1: Junior (Major - Computational Modelling and Data Analytics, Minor - Computer Science, Math)
+  education1: Junior (Major - Computational Modelling and Data Analytics; Minor - Computer Science, Math)
