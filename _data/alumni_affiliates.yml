@@ -1,6 +1,6 @@
 - name: Eunkyung Lucy Shin
   photo: Shin.png
-  info: Graduate Research Assistant - Fall 2018, Spring, Summer, Fall 2019, Spring 2020
+  info: Graduate Research Assistant - Fall 2018; Spring, Summer, Fall 2019; Spring 2020
   email: shinek@vt.edu
   www: https://fbri.vtc.vt.edu/people-directory/postdoctoral-associates/shin.html
   number_educ: 2
@@ -9,8 +9,16 @@
   
 - name: Jessica Resor
   photo: Resor.png
-  info: Graduate Research Assistant - Fall 2019, Spring, Summer, 2020
+  info: Graduate Research Assistant - Fall 2019; Spring, Summer, 2020
   email: jmresor@vt.edu
   www: https://blogs.lt.vt.edu/hdgradstudents/meet-our-graduate-students/2018-cohort/
   number_educ: 1
   education1: Ph.D. (Advisor - Dr. Erika Grafsky)
+
+- name: Maddie Toman
+  photo: Toman.png
+  info: Graduate Research Assistant - Fall 2022; Spring 2023
+  email: maddie99@vt.edu
+  www: 
+  number_educ: 1
+  education1: Ph.D. Student (Advisor - Dr. Rose Wesche)
