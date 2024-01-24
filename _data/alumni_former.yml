@@ -256,7 +256,14 @@
 
 - name: Christine Lolavar
   photo: Lolavar.png
-  info: Undergraduate Research Assistant - Fall 2024
+  info: Undergraduate Research Assistant - Fall 2023
   email: clolavar@vt.edu
   number_educ: 1
   education1: (Major - Psychology)
+
+- name: Ahmed (Belal) Qazizada
+  photo: Qazizada.png
+  info: Undergraduate Research Assistant - Fall 2023
+  email: belal6@vt.edu 
+  number_educ: 1
+  education1: (Major - Civil and Environmental Engineering)
