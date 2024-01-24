@@ -164,21 +164,92 @@
   
 - name: Luke Janoschka
   photo: Janoschka.png
-  info: Undergraduate Research Assistant (Developer)
+  info: Undergraduate Research Assistant (Developer) - Spring 2022, Fall 2022
   email: lukejanoschka@vt.edu
   number_educ: 1
-  education1: Spring 2022 - Fall 2022 (Major - Computer Science)
+  education1: (Major - Computer Science)
    
 - name: Sraavya Gudavalli
   photo: Gudavalli.png
-  info: Undergraduate Research Assistant (Developer)
+  info: Undergraduate Research Assistant (Developer) - Fall 2022
   email: sraavya@vt.edu
   number_educ: 1
-  education1: Fall 2022 (Major - Computer Science; Minor - Human Computer Interaction)
+  education1: (Major - Computer Science; Minor - Human Computer Interaction)
 
 - name: Richard Martinez
   photo: Martinez.png
-  info: Undergraduate Research Assistant (Developer)
+  info: Undergraduate Research Assistant (Developer) - Fall 2022
   email: rmartinez21@vt.edu
   number_educ: 1
-  education1: Fall 2022 (Major - Computer Engineering; Minors - Computer Science, Mathematics)
+  education1: (Major - Computer Engineering; Minors - Computer Science, Mathematics)
+
+- name: Jordan Teel
+  photo: Teel.png
+  info: Undergraduate Research Assistant - Fall 2021; Spring, Fall 2022; Spring 2023
+  email: jteel@vt.edu
+  number_educ: 1
+  education1: (Major - Clinical Neuroscience; Minor - Spanish)
+  
+- name: Yullie Kwak
+  photo: Kwak.png
+  info: Undergraduate Research Assistant - Fall 2021; Spring, Summer, Fall 2022; Spring 2023 
+  email: yulliek@vt.edu
+  number_educ: 1
+  education1: (Major - Cognitive Behavioral Neuroscience, Human Development; Minor - Psychology, Adaptive Brain and Behavior)
+
+- name: Laura Zhang Zhang
+  photo: Zhang.png
+  info: Undergraduate Research Assistant - Spring, Summer, Fall 2022
+  email: laurazhang@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development)
+ 
+- name: Sebastian Ballesteros
+  photo: Ballesteros.png
+  info: Undergraduate Research Assistant (Field Study) - Fall 2022; Spring 2023 
+  email: sebastianb@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development)
+
+- name: Angel Appiadu-Manu
+  photo: Appiadu-Manu.png
+  info: Undergraduate Research Assistant - Fall 2022; Spring 2023
+  email: appiadumanuangel@vt.edu
+  number_educ: 1
+  education1: (Major - Biochemistry; Minor - French)
+
+- name: Alina Tseng
+  photo: Tseng.png
+  info: Undergraduate Research Assistant - Fall 2022; Spring 2023
+  email: alinawt@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development; Minor - Psychology, Human Computer Interaction)
+  
+- name: Maggie Ashley
+  photo: Ashley.png
+  info: Undergraduate Research Assistant - Fall 2022; Spring, Fall 2023
+  email: maggieashley@vt.edu
+  number_educ: 1
+  education1: Junior (Major - Human Development)
+  
+- name: Zainab Shamim
+  photo: Shamim.png
+  info: Undergraduate Research Assistant - Fall 2022; Spring2023
+  email: zainab@vt.edu
+  number_educ: 1
+  education1: (Major - English, Literature Track; Minor - Psychology)
+  
+- name: Yilin Liu  
+  photo: Liu.png
+  info: Undergraduate Research Assistant (Developer) - Fall 2022; Spring 2023
+  email: liupp@vt.edu
+  number_educ: 1
+  education1: (Major - Computer Engineering)
+  education2: Graduate Student at Georgia Tech
+  
+- name: Lauren Meier
+  photo: Meier.png
+  info: Undergraduate Research Assistant - Spring 2023
+  email: lmeier23@vt.edu
+  number_educ: 1
+  education1: (Major - Clinical Neuroscience and Psychology)
