@@ -34,7 +34,7 @@ Thank you for your interest in our research projects! We are currently running t
 - During three sessions, they will **read a storybook** with AI smart speaker
 - Parents will also complete a 10-minute online survey about their child’s background and media use.
 
-**How**: [Click to learn more](link) about our study and fill out the **permission and consent forms**:
+**How**: [Click to learn more](link) about our study and fill out the **permission and consent forms**.
 
 **Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisun@vt.edu](jisun@vt.edu) 
 
@@ -53,8 +53,7 @@ The Virginia Tech Institutional Review Board has approved this experiment for hu
 - During three sessions, they will **read a storybook** with AI smart speaker
 - Parents will also complete a 10-minute online survey about their child’s background and media use.
 
-**How**: [Click to learn more](link) about our study and fill out the **permission and consent forms**:
-[Click to learn more](link)
+**How**: [Click to learn more](link) about our study and fill out the **permission and consent forms**.
 
 **Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisun@vt.edu](jisun@vt.edu) 
 
