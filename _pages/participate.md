@@ -27,12 +27,12 @@ Thank you for your interest in our research projects! We are currently running t
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_AIS1.png){: style="width: 200px; float: right; border: 50px"}
 
-**Who**: Children ages 3 to 5 years who speak English and have not yet started kindergarten and their parents.
+**Who**: Children ages 3 to 5 years who speak English and have not yet started kindergartens and their parents.
 
 **What**: 5 home-visit sessions (20 min each)
 - During two sessions, children will play math and word games.
 - During three sessions, they will **read a storybook** with AI smart speaker
-- Parents will also complete a 10-minute online survey about their child’s background and media use. 
+- Parents will also complete a 10-minute online survey about their child’s background and media use.
 
 **How**: [Click to learn more](https://virginiatech.questionpro.com/t/AUIRXZ0MXP) about our study and fill out the **permission and consent forms**.
 
