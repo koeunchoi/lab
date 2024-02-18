@@ -15,7 +15,7 @@ permalink: /participate/ais_home/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_AIS1.png){: style="width: 200px; float: right; border: 50px"}
 
-**Who**: Children ages 3 to 5 years who speak English and have not yet started kindergartens and their parents.
+**Who**: Children ages 3 to 5 years who speak English and have not yet started kindergarten and their parents.
 
 **What**: 5 home-visit sessions (20 min each)
 - During two sessions, children will play math and word games.
