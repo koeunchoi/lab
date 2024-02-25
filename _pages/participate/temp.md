@@ -27,7 +27,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_AIS1.png){: style="width: 200px; float: right; border: 50px"}
 
-**Who**: Children ages 3 to 5 years who speak English, have not yet started kindergarten, and live in the New River Valley and surrounding areas, and their parents. 
+**Who**: Children ages 3 to 5 years who speak English, have not yet started kindergarten, and live in the New River Valley and surrounding areas of Virginia, USA, and their parents. 
 
 **What**: 5 home-visit sessions (20 min each)
 - During two sessions, children will play math and word games.
