@@ -22,7 +22,7 @@ permalink: /participate/ais_home/
 - During three sessions, they will **read a storybook** with our AI smart speaker.
 - Parents will also complete a 10-minute online survey about their child’s background and media use.
 
-**How**: [Click to learn more](https://virginiatech.questionpro.com/t/AUIRXZ0MXP) about our study and fill out our **interest form**.
+**How**: [Click to learn more](https://virginiatech.questionpro.com/t/AVJAmZ1jnE) about our study and fill out our **interest form**.
 
 **Questions?** Contact the researcher: [koeun@vt.edu](koeun@vt.edu) or [jisun@vt.edu](jisun@vt.edu) 
 
