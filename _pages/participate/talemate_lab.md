@@ -30,7 +30,7 @@ permalink: /participate/talemate_lab/
 
 **Questions?** Contact the researcher: (researcher's email).
 
-The Virginia Tech Institutional Review Board has approved this experiment for human subjects research (IRB # 23-748).
+This is a Virginia Tech research study (IRB # 23-748).
 
 
 ******************************************************************************************************************************
