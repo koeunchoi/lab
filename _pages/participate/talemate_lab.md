@@ -18,8 +18,8 @@ permalink: /participate/talemate_lab/
 **Who**: Children ages 3 to 6 years who speak English and live in the New River Valley and surrounding areas of Virginia, USA, and their parents. 
 
 **What**: 75 minutes in total
-- One in-person visit to our lab (60 min): You and your child will read two storybooks by using the TaleMate platform, a system that enhances reading by using AI and answer questions about your experience of using the platform.
-- One online Survey (15 min): You will complete a 15-minute online survey about your child’s background, media use, and reading habits.
+- **One in-person visit to our lab (60 min)**: You and your child will read two storybooks by using the TaleMate platform, a system that enhances reading by using AI and answer questions about your experience of using the platform.
+- **One online survey (15 min)**: You will complete a 15-minute online survey about your child’s background, media use, and reading habits.
 
 **Where**:
 - The in-person visit will take place at **our lab** on the Blacksburg campus of Virginia Tech.
