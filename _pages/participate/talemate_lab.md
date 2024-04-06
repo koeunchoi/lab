@@ -11,7 +11,7 @@ permalink: /participate/talemate_lab/
 ******************************************************************************************************************************
 
 
-### **Let's Read with AI Reading Partner! (Lab Visit)**
+### **Let's Read with TaleMate! (Lab Visit)**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_AIS1.png){: style="width: 200px; float: right; border: 50px"}
 

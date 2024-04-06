@@ -11,7 +11,7 @@ permalink: /participate/talemate_home/
 ******************************************************************************************************************************
 
 
-### **Let's Read with AI Reading Partner! (Home Visit)**
+### **Let's Read with TaleMate! (Home Visit)**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TaleMate1.png){: style="width: 200px; float: right; border: 50px"}
 
