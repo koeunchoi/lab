@@ -13,7 +13,7 @@ permalink: /participate/talemate_lab/
 
 ### **Let's Read with TaleMate! (Lab Visit)**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_AIS1.png){: style="width: 200px; float: right; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TaleMate1.png){: style="width: 200px; float: right; border: 50px"}
 
 **Who**: Children ages 3 to 6 years who speak English and live in the New River Valley and surrounding areas of Virginia, USA, and their parents. 
 
