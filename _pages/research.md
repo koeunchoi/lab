@@ -26,7 +26,11 @@ Collaborators:
 [Caroline Hornburg](https://sites.google.com/view/vtlearninganddevelopmentlab) (Learning and Development Lab; Human Development and Family Science at VT)
 [Neelma Bhatti](https://people.cs.vt.edu/neelma/) (Computer Science at VT)
 [Carla Macias](https://projects.iq.harvard.edu/ccdlab/people/carla-macias) (Psychology at Rutgers-Newark)
+[Kimele Persaud](https://sasn.rutgers.edu/kimele-persaud) (Psychology at Rutgers-Newark)
 [Martin Zettersten](https://mzettersten.github.io/) (Psychology at Princeton University)
+[Sang Won Lee](https://mzettersten.github.io/) (Computer Science at VT)
+[Daniel Vargas Díaz](https://www.danielvargasdiaz.net/) (Computer Science at VT)
+[Sulakna Karunaratna](https://echolab.cs.vt.edu/members/) (Computer Science at VT)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: right; border: 10px"}
 
@@ -53,6 +57,7 @@ Collaborators:
 [Eunkyung Lucy Shin](https://fbri.vtc.vt.edu/people-directory/postdoctoral-associates/shin.html) (Fralin Biomedical Research Institute at VTC)
 [Diana Devine](https://www.techkids.clahs.vt.edu/) (Children's Emotions Lab; Human Development and Family Science at VT)
 [Candy Beers](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Candy-Beers.html) (Human Development and Family Science at VT)
+[YeaJi Hong](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Candy-Beers.html) (Child Studies at Inha University)
 
 **Support** 
 
