@@ -31,6 +31,9 @@ Collaborators:
 [Sang Won Lee](https://mzettersten.github.io/) (Computer Science at VT)
 [Daniel Vargas Díaz](https://www.danielvargasdiaz.net/) (Computer Science at VT)
 [Sulakna Karunaratna](https://echolab.cs.vt.edu/members/) (Computer Science at VT)
+[Abby Walker](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/abby-walker.html) (English at VT)
+[Yan Chen](https://chensivan.github.io/) (Computer Science at VT)
+[Qin Zhu](https://enge.vt.edu/People/researchfaculty/qinzhu.html) (Engineering Education at VT)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: right; border: 10px"}
 
@@ -45,6 +48,7 @@ Collaborators:
 [Rebekah Richert](https://www.childcoglab.org/) (Childhood Cognition Lab (CCL) at University of California, Riverside)
 [John Franchak](https://padlab.ucr.edu/) (Perception, Action, and Development (PAD) Lab at University of California, Riverside)
 [Molly Schlesinger](https://www.childcoglab.org/) (Childhood Cognition Lab (CCL) at University of California, Riverside)
+[Martha Ann Bell](https://support.psyc.vt.edu/users/mabell) (Cognition, Affect, and Psychophysiology Lab (The CAP Lab) at VT)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
 
