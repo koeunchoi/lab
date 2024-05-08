@@ -11,7 +11,7 @@ permalink: /participate/pa/
 ******************************************************************************************************************************
 
 
-### ** Parenting Experience Survey **
+### **Parenting Experience Survey**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_PS1.png){: style="width: 200px; float: right; border: 50px"}
 
