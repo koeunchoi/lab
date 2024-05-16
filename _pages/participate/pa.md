@@ -17,7 +17,7 @@ permalink: /participate/pa/
 
 **Who**: Parents of children (aged 2-18 years) with any disability.
 
-**How**: [Click to learn more]() about our study and fill out our **interest form** as the first step to join our study.
+**How**: [Click to learn more](https://docs.google.com/document/d/1lsLHqm8CF2MEfT7bX-NGH-A1Szn23IKz/edit) about our study and fill out our **interest form** as the first step to join our study.
 
 **What**:
 - An online **interest form** for checking eligibility (about 1 minute).
