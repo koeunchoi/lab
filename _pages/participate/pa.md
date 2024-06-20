@@ -17,7 +17,7 @@ permalink: /participate/pa/
 
 **Who**: Parents of children (aged 2-18 years) with any disability.
 
-**How**: [Click to learn more and fill out our **interest form**](https://redcap.vtc.vt.edu/surveys/?s=LRWKRA7EEPC4MKEK) as the first step to join our study.
+**How**: [Click to learn more and fill out our **interest form**](https://virginiatech.questionpro.com/t/AVJAmZ3Ejy) as the first step to join our study.
 
 **What**:
 - An online **interest form** for checking eligibility (about 1 minute).
