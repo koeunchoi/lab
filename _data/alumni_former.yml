@@ -267,3 +267,52 @@
   email: belal6@vt.edu 
   number_educ: 1
   education1: (Major - Civil and Environmental Engineering)
+
+- name: Bryce McBain
+  photo: McBain.png
+  info: Undergraduate Research Assistant - Fall 2023; Spring 2024
+  email: bryce21@vt.edu
+  number_educ: 1
+  education1: Junior (Major - Cognitive and Behavioral Neuroscience, Psychology; Minor - Adaptive Brain and Behavior)
+  
+- name: Alethia Holstein
+  photo: Holstein.png
+  info: Undergraduate Research Assistant (Field Study) - Fall 2023; Spring 2024
+  email: alethiamarie@vt.edu
+  number_educ: 1
+  education1: Senior (Major - Human Development, Psychology; Minor - Adaptive Brain and Behavior)
+
+- name: Ilan Litvak
+  photo: Litvak.png
+  info: Undergraduate Research Assistant - Fall 2023; Spring 2024
+  email: ilanl22@vt.edu
+  number_educ: 1
+  education1: Sophomore (Major - Biological Sciences, Pre-Med)
+
+- name: Bailey Vaughn
+  photo: Vaughn.png
+  info: Undergraduate Research Assistant - Fall 2023; Spring 2024
+  email: bcv380@vt.edu
+  number_educ: 1
+  education1: Junior (Major - Psychology)
+
+- name: Alia Konold
+  photo: Konold.png
+  info: Undergraduate Research Assistant - Fall 2023; Spring 2024
+  email: akonold@vt.edu
+  number_educ: 1
+  education1: Sophomore (Major - Biochemistry; Minor - Disability Studies)  
+
+- name: Hailey Annibell
+  photo: Annibell.png
+  info: Undergraduate Research Assistant - Spring 2024
+  email: hrannibell23@vt.edu
+  number_educ: 1
+  education1: Freshman (Major - Computer Science)
+
+- name: Monika Khadka
+  photo: Khadka.png
+  info: Undergraduate Research Assistant - Spring 2024
+  email: mkhad3@vt.edu
+  number_educ: 1
+  education1: 
