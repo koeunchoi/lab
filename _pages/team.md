@@ -298,7 +298,7 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 </div>
 {% endif %}-->
 
-## Lab Alumni - Graduate Students, Postdocs, and Visiting Scholars
+## Lab Alumni - Graduate Students, Postdocs
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_gradpost %}
