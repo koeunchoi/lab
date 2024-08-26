@@ -75,7 +75,7 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 </div>
 {% endif %}
 
-## Graduate Students
+## Graduate Students, Visiting Scholars, and Postdocs
 
 {% assign number_printed = 0 %}
 {% for member in site.data.grad %}
