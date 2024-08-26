@@ -22,18 +22,3 @@
   number_educ: 1
   education1: Ph.D. Student
   
-- name: Jing Chen
-  photo: Chen.png
-  info: Graduate Student
-  email: cjing98@vt.edu
-  www: 
-  number_educ: 1
-  education1: Ph.D. Student (Advisor - Dr. Koeun Choi)
-
-- name: Dr. Carla Macias
-  photo: Macias.png
-  info: Postdoctoral Fellow
-  email: cm1172@scarletmail.rutgers.edu
-  www: 
-  number_educ: 1
-  education1: NSF Postdoctoral Fellow (Primary Sponsor - Dr. Kimele Persaud, Co-Sponsor: Dr. Koeun Choi)
