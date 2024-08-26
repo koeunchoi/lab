@@ -1,6 +1,6 @@
 - name: Shuqi Yu
   photo: Yu.png
-  info: Graduate Research Assistant
+  info: Graduate Student; Graduate Research Assistant
   email: shuqi@vt.edu
   www: https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Shuqi-Yu.html
   number_educ: 1
@@ -8,7 +8,7 @@
 
 - name: Mahmut Sami Gürdal
   photo: Gurdal.png
-  info: Graduate Student
+  info: Graduate Student; Graduate Research Assistant
   email: msgurdal@vt.edu
   www: https://bit.ly/msgurdal
   number_educ: 1
@@ -22,3 +22,10 @@
   number_educ: 1
   education1: Ph.D. Student at Koç University
   
+- name: Jing Chen
+  photo: Chen.png
+  info: Graduate Student; Graduate Research Assistant
+  email: cjing98@vt.edu
+  www: 
+  number_educ: 1
+  education1: Ph.D. Student (Advisor - Dr. Koeun Choi)
