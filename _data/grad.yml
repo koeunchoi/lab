@@ -4,15 +4,15 @@
   email: shuqi@vt.edu
   www: https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Shuqi-Yu.html
   number_educ: 1
-  education1: Ph.D. Student (Advisor - Dr. Koeun Choi)
+  education1: Ph.D. Student in HDFS (Advisor - Dr. Koeun Choi)
 
 - name: Mahmut Sami Gürdal
   photo: Gurdal.png
   info: Graduate Student; Graduate Research Assistant
   email: msgurdal@vt.edu
-  www: https://bit.ly/msgurdal
+  www: https://mahmutgurdal.github.io/
   number_educ: 1
-  education1: Ph.D. Student (Advisors - Dr. Koeun Choi, Dr. Cynthia Smith)
+  education1: Ph.D. Student in HDFS (Advisors - Dr. Koeun Choi, Dr. Cynthia Smith)
 
 - name: Meryem Şeyda Özcan
   photo: Ozcan.png
@@ -20,7 +20,15 @@
   email: mzayim17@ku.edu.tr
   www: 
   number_educ: 1
-  education1: Ph.D. Student at Koç University
+  education1: Ph.D. Student in Psychology at Koç University
+
+- name: Sulakna Karunaratna
+  photo: Karunaratna.png
+  info: Graduate Student
+  email: sulaknak@vt.edu
+  www: 
+  number_educ: 1
+  education1: Ph.D. Student in Computer Science (Advisors - Dr. Sang Won Lee, Dr. Koeun Choi)
   
 - name: Jing Chen
   photo: Chen.png
@@ -28,7 +36,7 @@
   email: cjing98@vt.edu
   www: 
   number_educ: 1
-  education1: Ph.D. Student (Advisor - Dr. Koeun Choi)
+  education1: Ph.D. Student in HDFS (Advisor - Dr. Koeun Choi)
 
 - name: Dr. Carla Macias
   photo: Macias.png
