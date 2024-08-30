@@ -1,48 +1,55 @@
 - name: Rahul Bhamidipati
   photo: Bhamidipati.png
-  info: Undergraduate Research Assistant (Developer) - Fall 2022; Fall 2023 - Present
+  info: Undergraduate Research Assistant (Developer), Fall 2022; Fall 2023 - Present
   email: rahulnb@vt.edu
   number_educ: 1
   education1: Senior (Major - Computer Engineering)
 
 - name: Junwoo Seo
   photo: Seo.png
-  info: Undergraduate Research Assistant - Spring 2024 - Present
+  info: Undergraduate Research Assistant, Spring 2024 - Present
   email: junwoo@vt.edu
   number_educ: 1
   education1: Junior (Major - Computational Modelling and Data Analytics; Minor - Computer Science, Math)
 
 - name: Hailey Annibell
   photo: Annibell.png
-  info: Undergraduate Research Assistant - Spring 2024 - Present
+  info: Undergraduate Research Assistant, Spring 2024 - Present
   email: hrannibell23@vt.edu
   number_educ: 1
   education1: Freshman (Major - Computer Science)
   
 - name: Maya Thomas
   photo: Thomas.png
-  info: Undergraduate Research Assistant - Fall 2024 - Present
+  info: Undergraduate Research Assistant, Fall 2024 - Present
   email: mayat22@vt.edu
   number_educ: 1
-  education1: (Major - )
+  education1: Junior (Major - Human Development)
 
 - name: Nithya Ramani
   photo: Ramani.png
-  info: Undergraduate Research Assistant - Fall 2024 - Present
+  info: Undergraduate Research Assistant, Fall 2024 - Present
   email: rnithya@vt.edu
   number_educ: 1
   education1: Sophomore (Major - Computational Systems Neuroscience, Minor - Data and Decisions)
 
 - name: Kathryn Seiple
   photo: Seiple.png
-  info: Undergraduate Research Assistant - Fall 2024 - Present
+  info: Undergraduate Research Assistant, Fall 2024 - Present
   email: kseiple26@vt.edu
   number_educ: 1
   education1: (Major - )
 
 - name: Erin Wade
   photo: Wade.png
-  info: Undergraduate Research Assistant - Fall 2024 - Present
+  info: Undergraduate Research Assistant, Fall 2024 - Present
   email: erinw03@vt.edu
   number_educ: 1
   education1: Senior (Major - Psychology, Minor - Disability Studies)
+ 
+- name: Herminio Giron
+  photo: Giron.png
+  info: Undergraduate Research Assistant, Fall 2024 - Present
+  email: herminio@vt.edu
+  number_educ: 1
+  education1: (Major - )
