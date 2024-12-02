@@ -25,6 +25,24 @@
     display: Behavioral Sciences, 14(9), 754 (2024)
   highlight: 0
 
+- title: "Promoting STEAM education and AI/robot ethics in a child- robot theater afterschool program"
+  image: Pub.png
+#  description: 
+  authors: Dong, J., Mitchell, J. J., Yu, S., Harmon, M., Holstein, A., Shim, J. H., Choi, K., Zhu, Q., & Jeon, M.
+  link: 
+    url: https://dl.acm.org/doi/10.1145/3610978.3641110
+    display: Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI2024), Boulder, CO, March 11-15. IEEE (2024)
+  highlight: 0
+
+- title: "Bridging the gap: Early education on robot and AI ethics through the robot theater platform in an informal learning environment"
+  image: Pub.png
+#  description: 
+  authors: Mitchell, J. J., Dong, J., Yu, S., Harmon, M., Holstein, A., Shim, J. H., Choi, K., Zhu, Q., & Jeon, M. 
+  link: 
+    url: https://dl.acm.org/doi/10.1145/3610978.3640581
+    display: Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI2024), Boulder, CO, March 11-15. IEEE (2024)
+  highlight: 0
+
 - title: "A child-robot musical theater afterschool program for promoting STEAM education: A case study and guidelines"
   image: Pub.png
 #  description: 
