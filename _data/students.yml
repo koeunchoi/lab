@@ -40,9 +40,23 @@
   number_educ: 1
   education1: Senior (Major - Psychology, Minor - Disability Studies)
  
-- name: Herminio Giron
-  photo: Giron.png
-  info: Undergraduate Research Assistant, Fall 2024 - Present
-  email: herminio@vt.edu
+- name: Allison Brant
+  photo: Brant.png
+  info: Undergraduate Research Assistant, Spring 2025 - Present
+  email: abrant@vt.edu
   number_educ: 1
-  education1: Junior (Major - Clinical Neuroscience)
+  education1: Sophomore (Major - Biochemistry, Minor - Adaptive Brain and Behavior; Science, Technology, and Law)
+
+- name: Izabella Faza
+  photo: Faza.png
+  info: Undergraduate Research Assistant, Spring 2025 - Present
+  email: ifaza@vt.edu
+  number_educ: 1
+  education1: Junior (Major - Psychology; Human Development)
+
+- name: Rachael Mannix
+  photo: Mannix.png
+  info: Undergraduate Research Assistant, Spring 2025 - Present
+  email: mannixr@vt.edu
+  number_educ: 1
+  education1: Senior (Major - Human Development)
