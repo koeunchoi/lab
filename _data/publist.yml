@@ -6,7 +6,24 @@
     url: https://doi.org/10.3389/frobt.2025.1529421
     display: Frontiers in Robotics and AI, 12, 1529421 (2025)
   highlight: 0
-  
+
+- title: "Child-robot musical theater for diverse and inclusive STREAMS education for children"
+  image: Pub.png
+  authors: Choi, K., & Jeon, M.
+  link: 
+    url: 
+    display: In D. Huffman, K. Feldman, & I. Herrick (Eds.), STEM to STREAMS: Towards a more equitable vision of STEM education (pp. 51- 72). Rowman & Littlefield (2025)
+  highlight: 0
+
+- title: "Imagination, creativity, and play"
+  image: Pub.png
+  authors: Richert, R.A., Choi, K., Gleason, T.R., Goldstein, T.R., & Sibert, S.M.
+  link: 
+    url: https://doi.org/10.1007/978-3- 031-69362-5 7
+    display: In D.A. Christakis, & L. Hale (Eds.), Handbook of children and screens (pp. 47-53). Springer, Cham (2025)
+  highlight: 0
+
+
 - title: "Exploring parent involvement in e-book joint reading with voice agents"
   image: Pub.png
 #  description: 
@@ -43,6 +60,15 @@
     display: Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI2024), Boulder, CO, March 11-15. IEEE (2024)
   highlight: 0
 
+- title: "Evaluation of interactive demonstration in voice-assisted counting for young children"
+  image: Pub.png
+#  description: 
+  authors: Karunaratna, S., Vargas-Diaz, D., Kim, J., Wang, J., Choi, K., & Lee, S. 
+  link: 
+    url: https://dl.acm.org/doi/pdf/10.1145/3678884.3681886
+    display: Proceedings of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing (SCSW), San Jos ́e, Costa Rica, November 9-13.(2024)
+  highlight: 0
+  
 - title: "Bridging the gap: Early education on robot and AI ethics through the robot theater platform in an informal learning environment"
   image: Pub.png
 #  description: 
@@ -220,7 +246,7 @@
   authors: Kirkorian, H. L., Pempek, T. A., & Choi, K.
   link: 
     url: https://doi.org/10.1007/978-3-319-45102-2_5
-    display: R. Barr & D. Linebarger (Eds.) Media exposure during infancy and early childhood (2017)
+    display: R. Barr & D. Linebarger (Eds.) Media exposure during infancy and early childhood (pp. 65-89). Springer (2017)
   highlight: 0
 
 - title: "Touch or watch to learn? Toddlers’ object retrieval using contingent and noncontingent video"
