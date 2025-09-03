@@ -7,15 +7,6 @@
   education1: Ph.D. (Advisor - Dr. Koeun Choi)
   education2: Postdoctoral Researcher in Human Development and Family Science at Purdue University, USA
 
-- name: Shuqi Yu, Ph.D.
-  photo: Yu.png
-  info: Ph.D. Student in Human Development - Fall 2022 - Summer 2025
-  email: shuqi@vt.edu
-  www: https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Shuqi-Yu.html
-  number_educ: 2
-  education1: Ph.D. (Advisor - Dr. Koeun Choi)
-  education2: Postdoctoral Researcher in Psychology and Neuroscience at Dalhousie University, Canada
-
 - name: Sulakna Karunaratna, M.S.
   photo: Karunaratna.png
   info: M.S. Student in Computer Science - Spring - Fall 2024
@@ -25,4 +16,20 @@
   education1: M.S. (Advisors - Dr. Sang Won Lee, Dr. Koeun Choi) 
   education2: Software Developer at Lexis Nexis 
 
-  
+- name: Shuqi Yu, Ph.D.
+  photo: Yu.png
+  info: Ph.D. Student in Human Development - Fall 2022 - Summer 2025
+  email: shuqi@vt.edu
+  www: https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Shuqi-Yu.html
+  number_educ: 2
+  education1: Ph.D. (Advisor - Dr. Koeun Choi)
+  education2: Postdoctoral Researcher in Psychology and Neuroscience at Dalhousie University, Canada
+
+- name: Meryem Şeyda Özcan, Ph.D.
+  photo: Ozcan.png
+  info: Visiting Graduate Student Scholar - Spring 2024 - Summer 2025
+  email: mzayim17@ku.edu.tr
+  www: 
+  number_educ: 2
+  education1: Visiting Graduate Student Scholar in Human Development and Family Science at Virginia Tech, USA (Faculty Sponsor - Dr. Koeun Choi)
+  education2: Ph.D. Candidate in Developmental Psychology at Koç University, Türkiye
