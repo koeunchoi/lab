@@ -1,28 +1,20 @@
-- name: Shuqi Yu
+- name: Shuqi Yu, Ph.D.
   photo: Yu.png
   info: Graduate Student; Graduate Research Assistant
   email: shuqi@vt.edu
   www: https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Shuqi-Yu.html
   number_educ: 1
-  education1: Ph.D. Student in HDFS (Advisor - Dr. Koeun Choi)
+  education1: Doctoral Student in HDFS (Advisor - Dr. Koeun Choi)
 
-- name: Mahmut Sami Gürdal
+- name: Mahmut Sami Gürdal, M.S.
   photo: Gurdal.png
   info: Graduate Student; Graduate Research Assistant
   email: msgurdal@vt.edu
   www: https://mahmutgurdal.github.io/
   number_educ: 1
-  education1: Ph.D. Student in HDFS (Advisors - Dr. Koeun Choi, Dr. Cynthia Smith)
+  education1: Doctoral Student in HDFS (Advisors - Dr. Koeun Choi, Dr. Cynthia Smith)
 
-- name: Meryem Şeyda Özcan
-  photo: Ozcan.png
-  info: Visiting Graduate Researcher
-  email: mzayim17@ku.edu.tr
-  www: 
-  number_educ: 1
-  education1: Ph.D. Student in Psychology at Koç University (Visiting Scholar Faculty Sponsor - Dr. Koeun Choi)
-
-- name: Sulakna Karunaratna
+- name: Sulakna Karunaratna, M.S.
   photo: Karunaratna.png
   info: Graduate Student
   email: sulaknak@vt.edu
@@ -30,18 +22,26 @@
   number_educ: 1
   education1: M.S. Student in Computer Science (Advisors - Dr. Sang Won Lee, Dr. Koeun Choi)
   
-- name: Jing Chen
+- name: Jing Chen, M.S.
   photo: Chen.png
-  info: Graduate Student; Graduate Research Assistant
+  info: Doctoral Student; Graduate Research Assistant
   email: cjing98@vt.edu
   www: 
   number_educ: 1
-  education1: Ph.D. Student in HDFS (Advisor - Dr. Koeun Choi)
+  education1: Doctoral Student in HDFS (Advisor - Dr. Koeun Choi)
 
-- name: Dr. Carla Macias
+- name: Carla Macias, Ph.D.
   photo: Macias.png
   info: Postdoctoral Fellow
   email: cm1172@scarletmail.rutgers.edu
   www: 
   number_educ: 1
   education1: National Science Foundation Postdoctoral Fellow (Faculty Primary Sponsor - Dr. Kimele Persaud, Faculty Co-Sponsor - Dr. Koeun Choi)
+  
+- name: Meryem Şeyda Özcan, Ph.D.
+  photo: Ozcan.png
+  info: Visiting Graduate Researcher
+  email: mzayim17@ku.edu.tr
+  www: 
+  number_educ: 1
+  education1: Virginia Tech Presidential Postdoctoral Fellow (Faculty Sponsor - Dr. Koeun Choi)
