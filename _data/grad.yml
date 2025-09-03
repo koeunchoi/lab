@@ -1,26 +1,10 @@
-- name: Shuqi Yu, Ph.D.
-  photo: Yu.png
-  info: Graduate Student; Graduate Research Assistant
-  email: shuqi@vt.edu
-  www: https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/academic-programs/hdfs-graduate-students/Shuqi-Yu.html
-  number_educ: 1
-  education1: Doctoral Student in HDFS (Advisor - Dr. Koeun Choi)
-
 - name: Mahmut Sami Gürdal, M.S.
   photo: Gurdal.png
   info: Graduate Student; Graduate Research Assistant
   email: msgurdal@vt.edu
   www: https://mahmutgurdal.github.io/
   number_educ: 1
-  education1: Doctoral Student in HDFS (Advisors - Dr. Koeun Choi, Dr. Cynthia Smith)
-
-- name: Sulakna Karunaratna, M.S.
-  photo: Karunaratna.png
-  info: Graduate Student
-  email: sulaknak@vt.edu
-  www: 
-  number_educ: 1
-  education1: M.S. Student in Computer Science (Advisors - Dr. Sang Won Lee, Dr. Koeun Choi)
+  education1: Ph.D. Student in HDFS (Advisors - Dr. Koeun Choi, Dr. Cynthia Smith)
   
 - name: Jing Chen, M.S.
   photo: Chen.png
@@ -28,7 +12,7 @@
   email: cjing98@vt.edu
   www: 
   number_educ: 1
-  education1: Doctoral Student in HDFS (Advisor - Dr. Koeun Choi)
+  education1: Ph.D. Student in HDFS (Advisor - Dr. Koeun Choi)
 
 - name: Carla Macias, Ph.D.
   photo: Macias.png
