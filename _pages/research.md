@@ -65,8 +65,7 @@ Collaborators:
 
 **Support** 
 
-These projects have been made possible in part by grants from Virginia Tech's [Institute for Creativity, Arts, and Technology (ICAT)](https://icat.vt.edu/), the [Center for Human Computer Interaction (CHCI)](https://hci.icat.vt.edu/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3uz4iZO5jWethg276YAGatwg1BChT7j2fJdB4vFm42tdFTXG1NIdUaArWnEALw_wcB), the [Center for Humanities (CH)](https://liberalarts.vt.edu/research-centers/center-for-humanities.html), the [Institute for Society, Culture and Environment (ISCE)](https://www.isce.vt.edu/), and the [College of Liberal Arts and Human Sciences (CLAHS)](https://liberalarts.vt.edu/) at Virginia Tech.
-
+Our research has been supported by the [National Institutes of Health (NIH)](https://www.nih.gov/?utm_source=chatgpt.com), the [National Science Foundation (NSF)](https://www.nsf.gov/?utm_source=chatgpt.com), and by Virginia Tech’s [Institute for Creativity, Arts, and Technology (ICAT)](https://icat.vt.edu/), the [Center for Human Computer Interaction (CHCI)](https://hci.icat.vt.edu/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3uz4iZO5jWethg276YAGatwg1BChT7j2fJdB4vFm42tdFTXG1NIdUaArWnEALw_wcB), the [Center for Humanities (CH)](https://liberalarts.vt.edu/research-centers/center-for-humanities.html), the [Institute for Society, Culture and Environment (ISCE)](https://www.isce.vt.edu/), the [College of Liberal Arts and Human Sciences (CLAHS)](https://liberalarts.vt.edu/).
 
 <figure class="fourth">
   <a href="https://icat.vt.edu/" target="_blank">
