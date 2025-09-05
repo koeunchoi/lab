@@ -273,54 +273,74 @@
   info: Undergraduate Research Assistant - Fall 2023; Spring 2024
   email: bryce21@vt.edu
   number_educ: 1
-  education1: Junior (Major - Cognitive and Behavioral Neuroscience, Psychology; Minor - Adaptive Brain and Behavior)
+  education1: (Major - Cognitive and Behavioral Neuroscience, Psychology; Minor - Adaptive Brain and Behavior)
   
 - name: Alethia Holstein
   photo: Holstein.png
   info: Undergraduate Research Assistant (Field Study) - Fall 2023; Spring 2024
   email: alethiamarie@vt.edu
   number_educ: 1
-  education1: Senior (Major - Human Development, Psychology; Minor - Adaptive Brain and Behavior)
+  education1: (Major - Human Development, Psychology; Minor - Adaptive Brain and Behavior)
 
 - name: Ilan Litvak
   photo: Litvak.png
   info: Undergraduate Research Assistant - Fall 2023; Spring 2024
   email: ilanl22@vt.edu
   number_educ: 1
-  education1: Sophomore (Major - Biological Sciences, Pre-Med)
+  education1: (Major - Biological Sciences, Pre-Med)
 
 - name: Bailey Vaughn
   photo: Vaughn.png
   info: Undergraduate Research Assistant - Fall 2023; Spring 2024
   email: bcv380@vt.edu
   number_educ: 1
-  education1: Junior (Major - Psychology)
+  education1: (Major - Psychology)
 
 - name: Alia Konold
   photo: Konold.png
   info: Undergraduate Research Assistant - Fall 2023; Spring 2024
   email: akonold@vt.edu
   number_educ: 1
-  education1: Sophomore (Major - Biochemistry; Minor - Disability Studies)  
-
-- name: Monika Khadka
-  photo: Khadka.png
-  info: Undergraduate Research Assistant - Spring 2024
-  email: mkhad3@vt.edu
-  number_educ: 1
-  education1: 
+  education1: (Major - Biochemistry; Minor - Disability Studies)  
 
 - name: Junwoo Seo
   photo: Seo.png
   info: Undergraduate Research Assistant, Spring 2024
   email: junwoo@vt.edu
   number_educ: 1
-  education1: Junior (Major - Computational Modelling and Data Analytics; Minor - Computer Science, Math)
+  education1: (Major - Computational Modelling and Data Analytics; Minor - Computer Science, Math)
 
 - name: Herminio Giron
   photo: Giron.png
   info: Undergraduate Research Assistant, Fall 2024 - Present
   email: herminio@vt.edu
   number_educ: 1
-  education1: Junior (Major - Clinical Neuroscience)
+  education1: (Major - Clinical Neuroscience)
   
+- name: Rahul Bhamidipati
+  photo: Bhamidipati.png
+  info: Undergraduate Research Assistant (Developer), Fall 2022; Fall 2023 - Spring 2025
+  email: rahulnb@vt.edu
+  number_educ: 1
+  education1: (Major - Computer Engineering)
+  
+- name: Nithya Ramani
+  photo: Ramani.png
+  info: Undergraduate Research Assistant, Fall 2024 - Spring 2025
+  email: rnithya@vt.edu
+  number_educ: 1
+  education1: (Major - Computational Systems Neuroscience, Minor - Data and Decisions)
+
+- name: Erin Wade
+  photo: Wade.png
+  info: Undergraduate Research Assistant, Fall 2024 - Spring 2025
+  email: erinw03@vt.edu
+  number_educ: 1
+  education1: (Major - Psychology, Minor - Disability Studies)
+
+- name: Rachael Mannix
+  photo: Mannix.png
+  info: Undergraduate Research Assistant, Spring 2025
+  email: mannixr@vt.edu
+  number_educ: 1
+  education1: (Major - Human Development, Minor - Adaptive Brain and Behavior)
