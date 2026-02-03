@@ -7,6 +7,21 @@ permalink: /outreach/
 
 # Outreach
 
+**2025**
+
+<a href="https://airtable.com/appIjRHkitwvsn5mD/shrdpkFJULQQ9lYrH/tbl6nlnosSnB8yDgT/viwIHlqILmTPApQXv/recpMq8QVWyC8EM4O?viewControls=on">AI and robots for young children’s learning.</a>
+<br>2025 Virginia Tech Science Festival
+<br> 
+November 15
+
+**2024**
+
+AI and robots for young children’s cognitive development.
+<br>2024 Virginia Tech Science Festival
+<br> 
+November 15
+
+
 **2022**
 
 <a href="https://icat.vt.edu/science-festival.html">Hang out with Robots</a>
