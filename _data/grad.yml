@@ -14,6 +14,15 @@
   number_educ: 1
   education1: Ph.D. Student in HDFS (Advisor - Dr. Koeun Choi)
 
+- name: Jaehoon Pyon
+  photo: Pyon.png
+  info: Doctoral Student; Graduate Research Assistant
+  email: pjaehoon@vt.edu
+  www: https://pieon.github.io/
+  number_educ: 1
+  education1: Ph.D. Student in CS (Advisor - Dr. Sang Won Lee)
+
+
 - name: Carla Macias, Ph.D.
   photo: Macias.png
   info: Postdoctoral Fellow
