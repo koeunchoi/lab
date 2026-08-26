@@ -430,7 +430,7 @@ Jump to [principal investigator](#principal-investigator), [graduate students](#
 ## Lab Alumni - Undergraduate Students 
 [Click here for the full list of our undergraduate alumni *](http://kchoi.org/team/former/)
  
-Ashleigh Bedwell, Sara Belay, Rhea Bhatia, Eva Grumbine, Valerie Salmon, Ally Copeland, Caroline Kammer, Molly Simek, Bethany Grocock, Katie Johnson, Eman Ayaz, Anvitha Metpally, Ally Copeland, Taylor Covington, Ava Bir, Michelle Tran, Martha Drapac, Naheda Nassan, Julia Ricci, Breanne De Vera, Ava Morris, Julia Place, Ursilia Beckles, Luke Janoschka, Sraavya Gudavalli, Richard Martinez, Jordan Teel, Yullie Kwak, Laura Zhang Zhang, Sebastian Ballesteros, Angel Appiadu-Manu, Alina Tseng, Maggie Ashley, Zainab Shamim, Yilin Liu, Lauren Meier, Christine Lolavar, Ahmed (Belal) Qazizada
+Ashleigh Bedwell, Sara Belay, Rhea Bhatia, Eva Grumbine, Valerie Salmon, Ally Copeland, Caroline Kammer, Molly Simek, Bethany Grocock, Katie Johnson, Eman Ayaz, Anvitha Metpally, Ally Copeland, Taylor Covington, Ava Bir, Michelle Tran, Martha Drapac, Naheda Nassan, Julia Ricci, Breanne De Vera, Ava Morris, Julia Place, Ursilia Beckles, Luke Janoschka, Sraavya Gudavalli, Richard Martinez, Jordan Teel, Yullie Kwak, Laura Zhang Zhang, Sebastian Ballesteros, Angel Appiadu-Manu, Alina Tseng, Maggie Ashley, Zainab Shamim, Yilin Liu, Lauren Meier, Christine Lolavar, Ahmed (Belal) Qazizada, Bryce McBain, Alethia Holstein, Ilan Litvak, Bailey Vaughn, Alia Konold, Junwoo Seo, Herminio Giron, Rahul Bhamidipati, Nithya Ramani, Erin Wade, Rachael Mannix, Maya Thomas, Kathryn Seiple, Izabella Faza, Grace Ambrosio, Leanne Bell, Josie Vernon, Jack Quan, Ana Mellone
   
 <!--<div class="row">
 <div class="col-sm-3 clearfix">
