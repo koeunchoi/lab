@@ -31,10 +31,10 @@ We aim to translate our research into practice by informing parents, educators, 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/URA_2022_0429.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CoDeS_2026_0921.png" alt="Slide 1" />
         </div>        
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/EndSemLabParty_2020_1202.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CoDeS_2026_0424.png" alt="Slide 2" />
         </div>        
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
