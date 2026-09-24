@@ -31,7 +31,7 @@ We aim to translate our research into practice by informing parents, educators, 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CoDeS_2026_0921.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CoDeS_2026_0924.png" alt="Slide 1" />
         </div>        
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/CoDeS_2026_0424.png" alt="Slide 2" />
