@@ -23,7 +23,7 @@ permalink: /participate/ais_home/
 - **Dialogic Reading Prompts**: Provides suggested questions to support parent–child conversations.
 - **Playful Learning**: Integrates educational concepts, such as patterns, into engaging stories.
   
-**Explore Talemate**: [Click here]([https://virginiatech.questionpro.com/t/AVJAmZ1jnE](https://talemate.cs.vt.edu/)) to explore the TaleMate platform. 
+**Explore Talemate**: [Click here]((https://talemate.cs.vt.edu/](https://talemate.cs.vt.edu/)) to explore the TaleMate platform. 
 
 **TaleMate User Guide** Contact the researcher: [Click here]() to learn about how to use the TaleMate platform. 
 
