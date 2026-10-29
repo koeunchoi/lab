@@ -18,7 +18,7 @@ Our research aims to support children's active learning with interactive technol
 
 - Robot Theater Project: [https://sites.google.com/view/child-robot-theater/home](https://sites.google.com/view/child-robot-theater/home)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 150px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 100px; float: right; border: 10px"}
 
 
 **Children's visual attention to technology**
