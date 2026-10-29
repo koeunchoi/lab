@@ -25,7 +25,7 @@ Our research aims to support children's active learning with interactive technol
 
 We examine eye movements during complex and dynamic video viewing as a way to understand how learners process information during viewing. We found that children's attention is driven by the presence and relevance of interactive features in media. Currently, we are examining 1) the role of executive functioning (e.g., working memory, inhibitory control) in learners' visual attention and comprehension of mobile media content and 2) how the characteristics of media characters guide children's visual attention and learning.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 150px; float: right; border: 10px"}
 
 - Project BRAINY (Children's learning from online videos): [https://kchoi.org/participate/](https://kchoi.org/participate/)
   
