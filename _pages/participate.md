@@ -54,7 +54,9 @@ The Virginia Tech Institutional Review Board has approved this experiment for hu
 ******************************************************************************************************************************
 
 **[Synchronous Video Storybook Reading](http://kchoi.org/participate/sb/)**
+
 **[AI Storybook Reading](http://kchoi.org/participate/ais_school/)**
+
 **[TaleMate Study](http://kchoi.org/participate/talemate_lab/)**
 
 ******************************************************************************************************************************
