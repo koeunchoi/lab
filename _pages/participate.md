@@ -25,7 +25,7 @@ Thank you for your interest in our research projects! We are currently running t
 
 ### **Project BRAINY! (Lab Visit)**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_Brainy.png){: style="width: 200px; float: top; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/IRB-25-611_BRAINY-Flyer.png){: style="width: 200px; float: top; border: 50px"}
 
 **Who**: Three-year-old children who speak English and their parents.
 
