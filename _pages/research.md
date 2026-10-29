@@ -14,9 +14,12 @@ permalink: /research/
 
 Our research aims to support children's active learning with interactive technologies, including touchscreen tablets, video chats, voice assistants, and social robots. We found that active interactions with technological sources have the potential to promote children's exploration, information seeking, and learning. In our current studies, we are examining 1) child-adult joint play with interactive touchscreens and videoconferencing devices, 2) children's perception, curiosity, and learning from social robots, 3) the role of question asking in video chat and AI voice assistant systems, and 4) children's beliefs about various technologies.
 
-- TaleMate Project: https://kchoi.org/research/talemate/
-  
+- TaleMate Project: [https://kchoi.org/research/talemate/](https://kchoi.org/research/talemate/)
+
+- Robot Theater Project: [https://sites.google.com/view/child-robot-theater/home](https://sites.google.com/view/child-robot-theater/home)
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 150px; float: right; border: 10px"}
+
 
 **Children's visual attention to technology**
 
@@ -24,13 +27,12 @@ We examine eye movements during complex and dynamic video viewing as a way to un
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TM1.png){: style="width: 200px; float: right; border: 10px"}
 
-- Project BRAINY (Children's learning from online videos): https://kchoi.org/participate/
+- Project BRAINY (Children's learning from online videos): [https://kchoi.org/participate/](https://kchoi.org/participate/)
+  
   
 **Children's technology use in family and social contexts** 
 
 We study the extent to which children's technology use is influenced by family processes and social contexts such as parent-child interaction, parental stress, and family income. We found that parenting stress and family income are linked to children's thinking and use of technology. Currently, we are examining 1) parent-child interaction in the presence of different technologies and 2) the role of parental beliefs and stress in children's technology use.
-
-- Robot Theater Project: https://sites.google.com/view/child-robot-theater/home
   
 
 **Support** 
@@ -39,6 +41,7 @@ Our research has been supported by the [National Institutes of Health (NIH)](htt
 
 
 **Collaborators** 
+
 [Myounghoon Jeon](http://trim.mtu.edu/) (Mind Music Machine (tri-M) Lab; Industrial and Systems Engineering at VT)
 [Tae-Ho Lee](https://www.andlab.psyc.vt.edu/) (Affective Neurodynamics and Development (AND) Lab; Psychology at VT)
 [Chelsea Lyles](https://ceni.icat.vt.edu/about-us.html) (The Center for Educational Networks and Impacts (CENI) at VT)
