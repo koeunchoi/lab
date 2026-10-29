@@ -13,7 +13,7 @@ permalink: /research/talemate/
 
 ### **TaleMate: AI-Supported Shared Reading**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TaleMate.png){: style="width: 200px; float: right; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_TaleMate.png){: style="width: 500px; float: top; border: 50px"}
 
 **What is TaleMate?**: TaleMate is an AI-supported shared reading platform designed to support children's learning and parent–child interaction through interactive storytelling.
 
