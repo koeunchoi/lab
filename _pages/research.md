@@ -16,7 +16,7 @@ Our research aims to support children's active learning with interactive technol
 
 - TaleMate Project: https://kchoi.org/research/talemate/
   
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Research_ML1.png){: style="width: 150px; float: right; border: 10px"}
 
 **Children's visual attention to technology**
 
