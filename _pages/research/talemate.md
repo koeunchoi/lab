@@ -3,7 +3,7 @@ title: "Choi Lab - Research"
 layout: textlay
 excerpt: "TaleMate"
 sitemap: false
-permalink: /participate/ais_home/
+permalink: /research/talemate/
 ---
 
 ******************************************************************************************************************************
