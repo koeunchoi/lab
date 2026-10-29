@@ -23,9 +23,9 @@ permalink: /research/talemate/
 - **Dialogic Reading Prompts**: Provides suggested questions to support parent–child conversations.
 - **Playful Learning**: Integrates educational concepts, such as patterns, into engaging stories.
   
-**Explore Talemate**: [Click here] (https://talemate.cs.vt.edu/)) to explore the TaleMate platform. 
+**Explore Talemate**: [Click here](https://talemate.cs.vt.edu/) to explore the TaleMate platform. 
 
-**TaleMate User Guide** Contact the researcher: [Click here](https://kchoi.org/files/TaleMate User Manual.pdf/) to learn about how to use the TaleMate platform. 
+**TaleMate User Guide** Contact the researcher: [Click here](https://kchoi.org/files/TaleMate_User_Manual.pdf) to learn about how to use the TaleMate platform. 
 
 This project was supported by the Caplan Foundation for Early Childhood and the Virginia Tech Institute for Creativity, Arts, and Technology (ICAT).
 
